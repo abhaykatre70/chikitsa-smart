@@ -32,11 +32,16 @@ app = Flask(
     __name__,
     instance_relative_config=True,
 )
-os.makedirs(app.instance_path, exist_ok=True)
-
 app.secret_key = os.getenv("SECRET_KEY", "MYSECRETKEY")
 
-db_path = Path(app.instance_path) / "database.db"
+# Vercel filesystem is read-only, use /tmp for SQLite (Transient/Ephemeral only)
+if os.environ.get('VERCEL'):
+    import tempfile
+    db_path = Path(tempfile.gettempdir()) / "database.db"
+else:
+    os.makedirs(app.instance_path, exist_ok=True)
+    db_path = Path(app.instance_path) / "database.db"
+
 app.config["SQLALCHEMY_DATABASE_URI"] = f"sqlite:///{db_path}"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 
