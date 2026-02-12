@@ -77,9 +77,17 @@ Authentication and core features work with defaults, but for Email/SMS/AI featur
 | `TWILIO_AUTH_TOKEN` | Twilio Auth Token |
 | `AI_API_KEY` | API Key for AI features |
 
-### Default Admin Login
-- **Username**: `admin`
-- **Password**: `admin123` (or your configured env var)
+### 🔐 Demo Login Credentials
+
+Since the database resets on every Vercel deployment, we have pre-loaded these accounts for you to test:
+
+| Role | Username | Password |
+| :--- | :--- | :--- |
+| **Admin** | `admin` | `admin123` |
+| **Doctor** | `doctor1` | `doctor123` |
+| **Patient** | `patient1` | `patient123` |
+
+> *Note: You can also register new users, but they will be deleted when the server restarts.*
 
 ## 📦 Dependencies
 

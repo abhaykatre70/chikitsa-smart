@@ -169,6 +169,7 @@ def seed_data():
             )
             db.session.add(default_hospital)
             db.session.commit()
+        # Create Admin
         if not User.query.filter_by(role="admin").first():
             admin_password = os.getenv("ADMIN_DEFAULT_PASSWORD", "admin123")
             admin_user = User(
@@ -178,9 +179,57 @@ def seed_data():
                 role="admin",
                 full_name="Hospital Admin",
                 hospital_id=Hospital.query.first().id,
+                phone="9876543210"
             )
             db.session.add(admin_user)
             db.session.commit()
+
+        # Create Doctors
+        doctors_data = [
+            {"username": "doctor1", "full_name": "Dr. Rohit Sharma", "spec": "Cardiologist", "phone": "9876543211"},
+            {"username": "doctor2", "full_name": "Dr. Anjali Gupta", "spec": "Dermatologist", "phone": "9876543212"},
+            {"username": "doctor3", "full_name": "Dr. Vikram Singh", "spec": "General Physician", "phone": "9876543213"},
+        ]
+        
+        for doc in doctors_data:
+            if not User.query.filter_by(username=doc["username"]).first():
+                new_doc = User(
+                    username=doc["username"],
+                    email=f"{doc['username']}@hospital.local",
+                    password_hash=generate_password_hash("doctor123", method="pbkdf2:sha256"),
+                    role="doctor",
+                    full_name=doc["full_name"],
+                    type_of_doctor=doc["spec"],
+                    hospital_id=Hospital.query.first().id,
+                    phone=doc["phone"],
+                    daily_start_time="09:00",
+                    daily_end_time="17:00",
+                    slot_minutes=15
+                )
+                db.session.add(new_doc)
+        db.session.commit()
+
+        # Create Patients
+        patients_data = [
+            {"username": "patient1", "full_name": "Rahul Verma", "phone": "9876543221", "age": 30, "gender": "Male"},
+            {"username": "patient2", "full_name": "Sneha Patel", "phone": "9876543222", "age": 25, "gender": "Female"},
+        ]
+
+        for pat in patients_data:
+            if not User.query.filter_by(username=pat["username"]).first():
+                new_pat = User(
+                    username=pat["username"],
+                    email=f"{pat['username']}@gmail.com",
+                    password_hash=generate_password_hash("patient123", method="pbkdf2:sha256"),
+                    role="patient",
+                    full_name=pat["full_name"],
+                    phone=pat["phone"],
+                    age=pat["age"],
+                    gender=pat["gender"],
+                    hospital_id=Hospital.query.first().id
+                )
+                db.session.add(new_pat)
+        db.session.commit()
 
 
 def current_user():
