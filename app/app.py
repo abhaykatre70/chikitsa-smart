@@ -1239,8 +1239,13 @@ def api_notifications():
     return jsonify(data)
 
 
+# Initialize DB for Vercel (or local run)
+with app.app_context():
+    db.create_all()
+    # Seed data only if tables are empty
+    if not Hospital.query.first():
+        seed_data()
+
 if __name__ == "__main__":
-    create_tables()
-    seed_data()
     port = int(os.getenv("PORT", 5000))
     app.run(debug=True, host="0.0.0.0", port=port)
