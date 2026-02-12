@@ -3,6 +3,8 @@
 <img src="app/static/images/doctors-animate.svg" align="right" height="300px">
 
 > **Team Abhiyanta - Code League 1.0 Hackathon Top 10 Finalist**
+> 
+> **🔴 Live Demo:** [https://chikitsa-smart.vercel.app/](https://chikitsa-smart.vercel.app/)
 
 Chikitsa Smart (formerly MediCare) is a web application developed using Flask that aims to assist patients in obtaining necessary medical care. The system allows users to register, book appointments, and uses AI to predict diseases based on symptoms.
 
@@ -54,9 +56,30 @@ Although we didn’t win the final prize, the judges appreciated our **UI design
 3. **Access the App**:
    Visit `http://localhost:5000` in your browser.
 
-### Default Admin
+## ☁️ Deployment & Configuration (Vercel)
+
+The application is deployed on Vercel. To avoid server errors and enable full functionality, configure the following:
+
+### 1. Database Persistence
+**Important:** On Vercel (free tier), the SQLite database is **temporary**. It is recreated every time the app restarts. Data will not persist permanently unless you connect an external database (like PostgreSQL or MongoDB).
+
+### 2. Environment Variables
+Authentication and core features work with defaults, but for Email/SMS/AI features, add these in your Vercel Project Settings:
+
+| Variable | Description |
+| :--- | :--- |
+| `SECRET_KEY` | Security key (e.g., random string) |
+| `ADMIN_DEFAULT_PASSWORD` | Password for default `admin` user |
+| `MAIL_SERVER` | SMTP Server (e.g., `smtp.gmail.com`) |
+| `MAIL_USERNAME` | Email address for sending notifications |
+| `MAIL_PASSWORD` | App Password for the email |
+| `TWILIO_ACCOUNT_SID` | Twilio SID for SMS |
+| `TWILIO_AUTH_TOKEN` | Twilio Auth Token |
+| `AI_API_KEY` | API Key for AI features |
+
+### Default Admin Login
 - **Username**: `admin`
-- **Password**: `admin123`
+- **Password**: `admin123` (or your configured env var)
 
 ## 📦 Dependencies
 
