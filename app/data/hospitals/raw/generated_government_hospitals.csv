@@ -1,0 +1,901 @@
+facility_name,address,state_name,district_name,sub_district_name,pincode,facility_type,ownership,facility_id,latitude,longitude
+Government Andhra Central Hospital 1,"Main Road, Andhra Central, Andhra Pradesh",Andhra Pradesh,Andhra Central,Block A,608239,District Hospital,Government,GEN-00001,15.622751,95.748399
+Government Andhra Central Hospital 2,"Main Road, Andhra Central, Andhra Pradesh",Andhra Pradesh,Andhra Central,Block A,842482,Sub District Hospital,Government,GEN-00002,24.559731,70.273705
+Government Andhra Central Hospital 3,"Main Road, Andhra Central, Andhra Pradesh",Andhra Pradesh,Andhra Central,Block C,730161,Community Health Centre,Government,GEN-00003,17.764591,71.694239
+Government Andhra Central Hospital 4,"Main Road, Andhra Central, Andhra Pradesh",Andhra Pradesh,Andhra Central,Block B,811703,Primary Health Centre,Government,GEN-00004,27.797158,94.514379
+Government Andhra Central Hospital 5,"Main Road, Andhra Central, Andhra Pradesh",Andhra Pradesh,Andhra Central,Block A,446935,Medical College Hospital,Government,GEN-00005,25.198134,84.219408
+Government Andhra North Hospital 1,"Main Road, Andhra North, Andhra Pradesh",Andhra Pradesh,Andhra North,Block A,660026,District Hospital,Government,GEN-00006,37.095084,82.044249
+Government Andhra North Hospital 2,"Main Road, Andhra North, Andhra Pradesh",Andhra Pradesh,Andhra North,Block B,253016,Sub District Hospital,Government,GEN-00007,27.675219,96.638596
+Government Andhra North Hospital 3,"Main Road, Andhra North, Andhra Pradesh",Andhra Pradesh,Andhra North,Block A,839510,Community Health Centre,Government,GEN-00008,21.706191,79.181422
+Government Andhra North Hospital 4,"Main Road, Andhra North, Andhra Pradesh",Andhra Pradesh,Andhra North,Block A,510870,Primary Health Centre,Government,GEN-00009,10.362784,83.785789
+Government Andhra North Hospital 5,"Main Road, Andhra North, Andhra Pradesh",Andhra Pradesh,Andhra North,Block A,252345,Medical College Hospital,Government,GEN-00010,31.828255,87.666339
+Government Andhra South Hospital 1,"Main Road, Andhra South, Andhra Pradesh",Andhra Pradesh,Andhra South,Block B,553252,District Hospital,Government,GEN-00011,20.970908,93.582409
+Government Andhra South Hospital 2,"Main Road, Andhra South, Andhra Pradesh",Andhra Pradesh,Andhra South,Block B,223495,Sub District Hospital,Government,GEN-00012,16.833674,71.392443
+Government Andhra South Hospital 3,"Main Road, Andhra South, Andhra Pradesh",Andhra Pradesh,Andhra South,Block B,248629,Community Health Centre,Government,GEN-00013,33.11489,74.926579
+Government Andhra South Hospital 4,"Main Road, Andhra South, Andhra Pradesh",Andhra Pradesh,Andhra South,Block C,657368,Primary Health Centre,Government,GEN-00014,31.714967,73.032049
+Government Andhra South Hospital 5,"Main Road, Andhra South, Andhra Pradesh",Andhra Pradesh,Andhra South,Block C,853319,Medical College Hospital,Government,GEN-00015,11.060869,88.890697
+Government Andhra East Hospital 1,"Main Road, Andhra East, Andhra Pradesh",Andhra Pradesh,Andhra East,Block A,755717,District Hospital,Government,GEN-00016,28.709443,69.989923
+Government Andhra East Hospital 2,"Main Road, Andhra East, Andhra Pradesh",Andhra Pradesh,Andhra East,Block B,682361,Sub District Hospital,Government,GEN-00017,27.522007,93.908219
+Government Andhra East Hospital 3,"Main Road, Andhra East, Andhra Pradesh",Andhra Pradesh,Andhra East,Block B,794116,Community Health Centre,Government,GEN-00018,21.88643,79.029616
+Government Andhra East Hospital 4,"Main Road, Andhra East, Andhra Pradesh",Andhra Pradesh,Andhra East,Block A,505879,Primary Health Centre,Government,GEN-00019,9.720426,91.199578
+Government Andhra East Hospital 5,"Main Road, Andhra East, Andhra Pradesh",Andhra Pradesh,Andhra East,Block B,662307,Medical College Hospital,Government,GEN-00020,12.560912,93.7494
+Government Andhra West Hospital 1,"Main Road, Andhra West, Andhra Pradesh",Andhra Pradesh,Andhra West,Block C,566413,District Hospital,Government,GEN-00021,28.716628,82.623541
+Government Andhra West Hospital 2,"Main Road, Andhra West, Andhra Pradesh",Andhra Pradesh,Andhra West,Block B,590466,Sub District Hospital,Government,GEN-00022,29.534558,89.198647
+Government Andhra West Hospital 3,"Main Road, Andhra West, Andhra Pradesh",Andhra Pradesh,Andhra West,Block A,395046,Community Health Centre,Government,GEN-00023,23.205958,82.075678
+Government Andhra West Hospital 4,"Main Road, Andhra West, Andhra Pradesh",Andhra Pradesh,Andhra West,Block C,285632,Primary Health Centre,Government,GEN-00024,34.640865,93.018105
+Government Andhra West Hospital 5,"Main Road, Andhra West, Andhra Pradesh",Andhra Pradesh,Andhra West,Block B,660980,Medical College Hospital,Government,GEN-00025,37.370195,71.013351
+Government Arunachal Central Hospital 1,"Main Road, Arunachal Central, Arunachal Pradesh",Arunachal Pradesh,Arunachal Central,Block C,253828,District Hospital,Government,GEN-00026,8.334903,95.982289
+Government Arunachal Central Hospital 2,"Main Road, Arunachal Central, Arunachal Pradesh",Arunachal Pradesh,Arunachal Central,Block A,286656,Sub District Hospital,Government,GEN-00027,29.379069,70.870453
+Government Arunachal Central Hospital 3,"Main Road, Arunachal Central, Arunachal Pradesh",Arunachal Pradesh,Arunachal Central,Block B,321890,Community Health Centre,Government,GEN-00028,26.667811,83.845639
+Government Arunachal Central Hospital 4,"Main Road, Arunachal Central, Arunachal Pradesh",Arunachal Pradesh,Arunachal Central,Block C,656174,Primary Health Centre,Government,GEN-00029,9.579791,70.324649
+Government Arunachal Central Hospital 5,"Main Road, Arunachal Central, Arunachal Pradesh",Arunachal Pradesh,Arunachal Central,Block C,256625,Medical College Hospital,Government,GEN-00030,20.939424,94.506996
+Government Arunachal North Hospital 1,"Main Road, Arunachal North, Arunachal Pradesh",Arunachal Pradesh,Arunachal North,Block B,418905,District Hospital,Government,GEN-00031,11.347939,91.222117
+Government Arunachal North Hospital 2,"Main Road, Arunachal North, Arunachal Pradesh",Arunachal Pradesh,Arunachal North,Block A,401497,Sub District Hospital,Government,GEN-00032,35.453473,80.411916
+Government Arunachal North Hospital 3,"Main Road, Arunachal North, Arunachal Pradesh",Arunachal Pradesh,Arunachal North,Block A,558994,Community Health Centre,Government,GEN-00033,8.568325,75.410162
+Government Arunachal North Hospital 4,"Main Road, Arunachal North, Arunachal Pradesh",Arunachal Pradesh,Arunachal North,Block A,432100,Primary Health Centre,Government,GEN-00034,25.4064,71.063833
+Government Arunachal North Hospital 5,"Main Road, Arunachal North, Arunachal Pradesh",Arunachal Pradesh,Arunachal North,Block C,120541,Medical College Hospital,Government,GEN-00035,20.873641,85.319793
+Government Arunachal South Hospital 1,"Main Road, Arunachal South, Arunachal Pradesh",Arunachal Pradesh,Arunachal South,Block B,452589,District Hospital,Government,GEN-00036,14.732301,78.398582
+Government Arunachal South Hospital 2,"Main Road, Arunachal South, Arunachal Pradesh",Arunachal Pradesh,Arunachal South,Block B,737587,Sub District Hospital,Government,GEN-00037,30.842685,78.651957
+Government Arunachal South Hospital 3,"Main Road, Arunachal South, Arunachal Pradesh",Arunachal Pradesh,Arunachal South,Block C,218260,Community Health Centre,Government,GEN-00038,37.202694,81.343864
+Government Arunachal South Hospital 4,"Main Road, Arunachal South, Arunachal Pradesh",Arunachal Pradesh,Arunachal South,Block C,852088,Primary Health Centre,Government,GEN-00039,11.254093,73.152812
+Government Arunachal South Hospital 5,"Main Road, Arunachal South, Arunachal Pradesh",Arunachal Pradesh,Arunachal South,Block C,731707,Medical College Hospital,Government,GEN-00040,19.216782,96.680861
+Government Arunachal East Hospital 1,"Main Road, Arunachal East, Arunachal Pradesh",Arunachal Pradesh,Arunachal East,Block A,467657,District Hospital,Government,GEN-00041,30.842823,89.412442
+Government Arunachal East Hospital 2,"Main Road, Arunachal East, Arunachal Pradesh",Arunachal Pradesh,Arunachal East,Block A,805077,Sub District Hospital,Government,GEN-00042,35.075074,87.821662
+Government Arunachal East Hospital 3,"Main Road, Arunachal East, Arunachal Pradesh",Arunachal Pradesh,Arunachal East,Block C,843137,Community Health Centre,Government,GEN-00043,29.721668,74.063554
+Government Arunachal East Hospital 4,"Main Road, Arunachal East, Arunachal Pradesh",Arunachal Pradesh,Arunachal East,Block C,721124,Primary Health Centre,Government,GEN-00044,27.568421,82.131993
+Government Arunachal East Hospital 5,"Main Road, Arunachal East, Arunachal Pradesh",Arunachal Pradesh,Arunachal East,Block C,784934,Medical College Hospital,Government,GEN-00045,18.987196,71.295757
+Government Arunachal West Hospital 1,"Main Road, Arunachal West, Arunachal Pradesh",Arunachal Pradesh,Arunachal West,Block B,158209,District Hospital,Government,GEN-00046,17.817161,77.262218
+Government Arunachal West Hospital 2,"Main Road, Arunachal West, Arunachal Pradesh",Arunachal Pradesh,Arunachal West,Block B,451974,Sub District Hospital,Government,GEN-00047,16.933386,71.841159
+Government Arunachal West Hospital 3,"Main Road, Arunachal West, Arunachal Pradesh",Arunachal Pradesh,Arunachal West,Block B,472448,Community Health Centre,Government,GEN-00048,33.52973,90.41736
+Government Arunachal West Hospital 4,"Main Road, Arunachal West, Arunachal Pradesh",Arunachal Pradesh,Arunachal West,Block A,720503,Primary Health Centre,Government,GEN-00049,31.552469,90.540924
+Government Arunachal West Hospital 5,"Main Road, Arunachal West, Arunachal Pradesh",Arunachal Pradesh,Arunachal West,Block C,727818,Medical College Hospital,Government,GEN-00050,17.354728,81.490546
+Government Assam Central Hospital 1,"Main Road, Assam Central, Assam",Assam,Assam Central,Block A,626628,District Hospital,Government,GEN-00051,27.546155,95.338803
+Government Assam Central Hospital 2,"Main Road, Assam Central, Assam",Assam,Assam Central,Block A,432295,Sub District Hospital,Government,GEN-00052,37.099454,68.741336
+Government Assam Central Hospital 3,"Main Road, Assam Central, Assam",Assam,Assam Central,Block A,477223,Community Health Centre,Government,GEN-00053,16.873357,84.145153
+Government Assam Central Hospital 4,"Main Road, Assam Central, Assam",Assam,Assam Central,Block C,448405,Primary Health Centre,Government,GEN-00054,33.523999,71.978616
+Government Assam Central Hospital 5,"Main Road, Assam Central, Assam",Assam,Assam Central,Block B,744071,Medical College Hospital,Government,GEN-00055,30.098516,87.795322
+Government Assam North Hospital 1,"Main Road, Assam North, Assam",Assam,Assam North,Block B,175450,District Hospital,Government,GEN-00056,35.524543,91.079403
+Government Assam North Hospital 2,"Main Road, Assam North, Assam",Assam,Assam North,Block A,371529,Sub District Hospital,Government,GEN-00057,12.138174,85.832789
+Government Assam North Hospital 3,"Main Road, Assam North, Assam",Assam,Assam North,Block A,475880,Community Health Centre,Government,GEN-00058,19.110649,77.964261
+Government Assam North Hospital 4,"Main Road, Assam North, Assam",Assam,Assam North,Block A,262368,Primary Health Centre,Government,GEN-00059,16.695424,85.879422
+Government Assam North Hospital 5,"Main Road, Assam North, Assam",Assam,Assam North,Block A,370399,Medical College Hospital,Government,GEN-00060,12.360018,75.371816
+Government Assam South Hospital 1,"Main Road, Assam South, Assam",Assam,Assam South,Block C,535941,District Hospital,Government,GEN-00061,35.133556,80.649494
+Government Assam South Hospital 2,"Main Road, Assam South, Assam",Assam,Assam South,Block C,660742,Sub District Hospital,Government,GEN-00062,27.877176,68.588774
+Government Assam South Hospital 3,"Main Road, Assam South, Assam",Assam,Assam South,Block C,159029,Community Health Centre,Government,GEN-00063,20.827825,91.557198
+Government Assam South Hospital 4,"Main Road, Assam South, Assam",Assam,Assam South,Block B,202318,Primary Health Centre,Government,GEN-00064,19.504053,87.149536
+Government Assam South Hospital 5,"Main Road, Assam South, Assam",Assam,Assam South,Block C,137518,Medical College Hospital,Government,GEN-00065,21.403502,71.404551
+Government Assam East Hospital 1,"Main Road, Assam East, Assam",Assam,Assam East,Block A,215227,District Hospital,Government,GEN-00066,23.124939,81.603583
+Government Assam East Hospital 2,"Main Road, Assam East, Assam",Assam,Assam East,Block A,400090,Sub District Hospital,Government,GEN-00067,34.185947,85.786673
+Government Assam East Hospital 3,"Main Road, Assam East, Assam",Assam,Assam East,Block A,693930,Community Health Centre,Government,GEN-00068,28.504004,94.138863
+Government Assam East Hospital 4,"Main Road, Assam East, Assam",Assam,Assam East,Block A,253734,Primary Health Centre,Government,GEN-00069,17.469676,84.620816
+Government Assam East Hospital 5,"Main Road, Assam East, Assam",Assam,Assam East,Block A,688776,Medical College Hospital,Government,GEN-00070,22.642931,92.891706
+Government Assam West Hospital 1,"Main Road, Assam West, Assam",Assam,Assam West,Block B,763447,District Hospital,Government,GEN-00071,30.87852,90.110598
+Government Assam West Hospital 2,"Main Road, Assam West, Assam",Assam,Assam West,Block C,737334,Sub District Hospital,Government,GEN-00072,19.903111,69.738949
+Government Assam West Hospital 3,"Main Road, Assam West, Assam",Assam,Assam West,Block B,603096,Community Health Centre,Government,GEN-00073,30.605914,73.774956
+Government Assam West Hospital 4,"Main Road, Assam West, Assam",Assam,Assam West,Block B,836029,Primary Health Centre,Government,GEN-00074,33.179336,83.62687
+Government Assam West Hospital 5,"Main Road, Assam West, Assam",Assam,Assam West,Block C,312557,Medical College Hospital,Government,GEN-00075,12.052187,76.069157
+Government Bihar Central Hospital 1,"Main Road, Bihar Central, Bihar",Bihar,Bihar Central,Block B,476523,District Hospital,Government,GEN-00076,16.542206,82.610696
+Government Bihar Central Hospital 2,"Main Road, Bihar Central, Bihar",Bihar,Bihar Central,Block C,565778,Sub District Hospital,Government,GEN-00077,15.566536,72.699985
+Government Bihar Central Hospital 3,"Main Road, Bihar Central, Bihar",Bihar,Bihar Central,Block C,272515,Community Health Centre,Government,GEN-00078,31.62324,84.659556
+Government Bihar Central Hospital 4,"Main Road, Bihar Central, Bihar",Bihar,Bihar Central,Block C,815019,Primary Health Centre,Government,GEN-00079,12.753575,78.733098
+Government Bihar Central Hospital 5,"Main Road, Bihar Central, Bihar",Bihar,Bihar Central,Block C,124757,Medical College Hospital,Government,GEN-00080,23.767026,93.356082
+Government Bihar North Hospital 1,"Main Road, Bihar North, Bihar",Bihar,Bihar North,Block C,688666,District Hospital,Government,GEN-00081,23.398852,93.14459
+Government Bihar North Hospital 2,"Main Road, Bihar North, Bihar",Bihar,Bihar North,Block C,154957,Sub District Hospital,Government,GEN-00082,26.806217,90.392127
+Government Bihar North Hospital 3,"Main Road, Bihar North, Bihar",Bihar,Bihar North,Block B,762766,Community Health Centre,Government,GEN-00083,23.252133,80.341216
+Government Bihar North Hospital 4,"Main Road, Bihar North, Bihar",Bihar,Bihar North,Block C,164434,Primary Health Centre,Government,GEN-00084,35.950422,87.239113
+Government Bihar North Hospital 5,"Main Road, Bihar North, Bihar",Bihar,Bihar North,Block B,789266,Medical College Hospital,Government,GEN-00085,22.750141,70.036572
+Government Bihar South Hospital 1,"Main Road, Bihar South, Bihar",Bihar,Bihar South,Block C,252213,District Hospital,Government,GEN-00086,20.835584,85.170304
+Government Bihar South Hospital 2,"Main Road, Bihar South, Bihar",Bihar,Bihar South,Block A,229610,Sub District Hospital,Government,GEN-00087,10.29531,81.441123
+Government Bihar South Hospital 3,"Main Road, Bihar South, Bihar",Bihar,Bihar South,Block B,680629,Community Health Centre,Government,GEN-00088,20.865084,85.929619
+Government Bihar South Hospital 4,"Main Road, Bihar South, Bihar",Bihar,Bihar South,Block B,112763,Primary Health Centre,Government,GEN-00089,21.599797,74.980407
+Government Bihar South Hospital 5,"Main Road, Bihar South, Bihar",Bihar,Bihar South,Block B,302275,Medical College Hospital,Government,GEN-00090,16.216783,68.47533
+Government Bihar East Hospital 1,"Main Road, Bihar East, Bihar",Bihar,Bihar East,Block C,234707,District Hospital,Government,GEN-00091,35.02785,73.823614
+Government Bihar East Hospital 2,"Main Road, Bihar East, Bihar",Bihar,Bihar East,Block B,684645,Sub District Hospital,Government,GEN-00092,10.182187,77.951077
+Government Bihar East Hospital 3,"Main Road, Bihar East, Bihar",Bihar,Bihar East,Block B,338546,Community Health Centre,Government,GEN-00093,18.530347,96.383255
+Government Bihar East Hospital 4,"Main Road, Bihar East, Bihar",Bihar,Bihar East,Block B,135280,Primary Health Centre,Government,GEN-00094,28.255919,74.296397
+Government Bihar East Hospital 5,"Main Road, Bihar East, Bihar",Bihar,Bihar East,Block C,642668,Medical College Hospital,Government,GEN-00095,20.573052,95.887811
+Government Bihar West Hospital 1,"Main Road, Bihar West, Bihar",Bihar,Bihar West,Block A,170253,District Hospital,Government,GEN-00096,37.091859,92.465037
+Government Bihar West Hospital 2,"Main Road, Bihar West, Bihar",Bihar,Bihar West,Block B,644768,Sub District Hospital,Government,GEN-00097,34.685904,85.729338
+Government Bihar West Hospital 3,"Main Road, Bihar West, Bihar",Bihar,Bihar West,Block B,467478,Community Health Centre,Government,GEN-00098,36.197246,73.062628
+Government Bihar West Hospital 4,"Main Road, Bihar West, Bihar",Bihar,Bihar West,Block A,790306,Primary Health Centre,Government,GEN-00099,12.579411,87.145344
+Government Bihar West Hospital 5,"Main Road, Bihar West, Bihar",Bihar,Bihar West,Block A,589597,Medical College Hospital,Government,GEN-00100,8.405747,73.370623
+Government Chhattisgarh Central Hospital 1,"Main Road, Chhattisgarh Central, Chhattisgarh",Chhattisgarh,Chhattisgarh Central,Block A,561371,District Hospital,Government,GEN-00101,16.679386,94.771722
+Government Chhattisgarh Central Hospital 2,"Main Road, Chhattisgarh Central, Chhattisgarh",Chhattisgarh,Chhattisgarh Central,Block A,437817,Sub District Hospital,Government,GEN-00102,14.856199,73.950073
+Government Chhattisgarh Central Hospital 3,"Main Road, Chhattisgarh Central, Chhattisgarh",Chhattisgarh,Chhattisgarh Central,Block B,273940,Community Health Centre,Government,GEN-00103,34.840713,91.801173
+Government Chhattisgarh Central Hospital 4,"Main Road, Chhattisgarh Central, Chhattisgarh",Chhattisgarh,Chhattisgarh Central,Block B,598132,Primary Health Centre,Government,GEN-00104,23.488875,93.565697
+Government Chhattisgarh Central Hospital 5,"Main Road, Chhattisgarh Central, Chhattisgarh",Chhattisgarh,Chhattisgarh Central,Block A,656275,Medical College Hospital,Government,GEN-00105,30.520833,73.494311
+Government Chhattisgarh North Hospital 1,"Main Road, Chhattisgarh North, Chhattisgarh",Chhattisgarh,Chhattisgarh North,Block B,579501,District Hospital,Government,GEN-00106,11.041301,85.515143
+Government Chhattisgarh North Hospital 2,"Main Road, Chhattisgarh North, Chhattisgarh",Chhattisgarh,Chhattisgarh North,Block A,773714,Sub District Hospital,Government,GEN-00107,23.290345,88.384095
+Government Chhattisgarh North Hospital 3,"Main Road, Chhattisgarh North, Chhattisgarh",Chhattisgarh,Chhattisgarh North,Block B,793444,Community Health Centre,Government,GEN-00108,29.504163,88.349179
+Government Chhattisgarh North Hospital 4,"Main Road, Chhattisgarh North, Chhattisgarh",Chhattisgarh,Chhattisgarh North,Block B,493822,Primary Health Centre,Government,GEN-00109,8.805508,71.342204
+Government Chhattisgarh North Hospital 5,"Main Road, Chhattisgarh North, Chhattisgarh",Chhattisgarh,Chhattisgarh North,Block B,598591,Medical College Hospital,Government,GEN-00110,24.050602,80.251683
+Government Chhattisgarh South Hospital 1,"Main Road, Chhattisgarh South, Chhattisgarh",Chhattisgarh,Chhattisgarh South,Block A,837677,District Hospital,Government,GEN-00111,24.525935,86.515001
+Government Chhattisgarh South Hospital 2,"Main Road, Chhattisgarh South, Chhattisgarh",Chhattisgarh,Chhattisgarh South,Block C,313670,Sub District Hospital,Government,GEN-00112,24.182495,79.888486
+Government Chhattisgarh South Hospital 3,"Main Road, Chhattisgarh South, Chhattisgarh",Chhattisgarh,Chhattisgarh South,Block C,150775,Community Health Centre,Government,GEN-00113,25.479228,83.545829
+Government Chhattisgarh South Hospital 4,"Main Road, Chhattisgarh South, Chhattisgarh",Chhattisgarh,Chhattisgarh South,Block A,200650,Primary Health Centre,Government,GEN-00114,34.392187,69.674833
+Government Chhattisgarh South Hospital 5,"Main Road, Chhattisgarh South, Chhattisgarh",Chhattisgarh,Chhattisgarh South,Block A,138273,Medical College Hospital,Government,GEN-00115,21.570675,78.390385
+Government Chhattisgarh East Hospital 1,"Main Road, Chhattisgarh East, Chhattisgarh",Chhattisgarh,Chhattisgarh East,Block C,719355,District Hospital,Government,GEN-00116,28.983177,90.879784
+Government Chhattisgarh East Hospital 2,"Main Road, Chhattisgarh East, Chhattisgarh",Chhattisgarh,Chhattisgarh East,Block C,455049,Sub District Hospital,Government,GEN-00117,9.807622,92.149124
+Government Chhattisgarh East Hospital 3,"Main Road, Chhattisgarh East, Chhattisgarh",Chhattisgarh,Chhattisgarh East,Block B,721930,Community Health Centre,Government,GEN-00118,8.096332,87.967281
+Government Chhattisgarh East Hospital 4,"Main Road, Chhattisgarh East, Chhattisgarh",Chhattisgarh,Chhattisgarh East,Block C,669496,Primary Health Centre,Government,GEN-00119,36.705784,90.73688
+Government Chhattisgarh East Hospital 5,"Main Road, Chhattisgarh East, Chhattisgarh",Chhattisgarh,Chhattisgarh East,Block A,396061,Medical College Hospital,Government,GEN-00120,8.379722,68.458272
+Government Chhattisgarh West Hospital 1,"Main Road, Chhattisgarh West, Chhattisgarh",Chhattisgarh,Chhattisgarh West,Block C,170992,District Hospital,Government,GEN-00121,35.299177,93.319464
+Government Chhattisgarh West Hospital 2,"Main Road, Chhattisgarh West, Chhattisgarh",Chhattisgarh,Chhattisgarh West,Block A,285553,Sub District Hospital,Government,GEN-00122,10.124754,76.530785
+Government Chhattisgarh West Hospital 3,"Main Road, Chhattisgarh West, Chhattisgarh",Chhattisgarh,Chhattisgarh West,Block B,717696,Community Health Centre,Government,GEN-00123,15.658191,80.990779
+Government Chhattisgarh West Hospital 4,"Main Road, Chhattisgarh West, Chhattisgarh",Chhattisgarh,Chhattisgarh West,Block B,222023,Primary Health Centre,Government,GEN-00124,25.821857,89.193278
+Government Chhattisgarh West Hospital 5,"Main Road, Chhattisgarh West, Chhattisgarh",Chhattisgarh,Chhattisgarh West,Block B,217132,Medical College Hospital,Government,GEN-00125,28.510004,89.945099
+Government Goa Central Hospital 1,"Main Road, Goa Central, Goa",Goa,Goa Central,Block B,556979,District Hospital,Government,GEN-00126,20.263813,73.901512
+Government Goa Central Hospital 2,"Main Road, Goa Central, Goa",Goa,Goa Central,Block A,583384,Sub District Hospital,Government,GEN-00127,33.514707,89.055626
+Government Goa Central Hospital 3,"Main Road, Goa Central, Goa",Goa,Goa Central,Block B,136407,Community Health Centre,Government,GEN-00128,21.973382,87.835393
+Government Goa Central Hospital 4,"Main Road, Goa Central, Goa",Goa,Goa Central,Block C,820258,Primary Health Centre,Government,GEN-00129,34.646137,89.130813
+Government Goa Central Hospital 5,"Main Road, Goa Central, Goa",Goa,Goa Central,Block C,184667,Medical College Hospital,Government,GEN-00130,17.558786,81.871345
+Government Goa North Hospital 1,"Main Road, Goa North, Goa",Goa,Goa North,Block C,426568,District Hospital,Government,GEN-00131,14.461228,91.82466
+Government Goa North Hospital 2,"Main Road, Goa North, Goa",Goa,Goa North,Block A,293995,Sub District Hospital,Government,GEN-00132,25.765919,85.991166
+Government Goa North Hospital 3,"Main Road, Goa North, Goa",Goa,Goa North,Block A,501759,Community Health Centre,Government,GEN-00133,31.608726,81.027134
+Government Goa North Hospital 4,"Main Road, Goa North, Goa",Goa,Goa North,Block C,750558,Primary Health Centre,Government,GEN-00134,37.113145,72.549983
+Government Goa North Hospital 5,"Main Road, Goa North, Goa",Goa,Goa North,Block C,259145,Medical College Hospital,Government,GEN-00135,10.944025,77.05459
+Government Goa South Hospital 1,"Main Road, Goa South, Goa",Goa,Goa South,Block B,257818,District Hospital,Government,GEN-00136,11.375024,91.993109
+Government Goa South Hospital 2,"Main Road, Goa South, Goa",Goa,Goa South,Block A,167355,Sub District Hospital,Government,GEN-00137,11.79776,74.972066
+Government Goa South Hospital 3,"Main Road, Goa South, Goa",Goa,Goa South,Block C,202294,Community Health Centre,Government,GEN-00138,13.683941,73.00018
+Government Goa South Hospital 4,"Main Road, Goa South, Goa",Goa,Goa South,Block C,216760,Primary Health Centre,Government,GEN-00139,24.250289,86.777521
+Government Goa South Hospital 5,"Main Road, Goa South, Goa",Goa,Goa South,Block A,715209,Medical College Hospital,Government,GEN-00140,28.155967,89.840139
+Government Goa East Hospital 1,"Main Road, Goa East, Goa",Goa,Goa East,Block C,664832,District Hospital,Government,GEN-00141,32.444778,69.60565
+Government Goa East Hospital 2,"Main Road, Goa East, Goa",Goa,Goa East,Block C,369934,Sub District Hospital,Government,GEN-00142,9.538813,92.930024
+Government Goa East Hospital 3,"Main Road, Goa East, Goa",Goa,Goa East,Block B,403260,Community Health Centre,Government,GEN-00143,15.055513,74.060587
+Government Goa East Hospital 4,"Main Road, Goa East, Goa",Goa,Goa East,Block A,578297,Primary Health Centre,Government,GEN-00144,9.176972,77.120886
+Government Goa East Hospital 5,"Main Road, Goa East, Goa",Goa,Goa East,Block B,377787,Medical College Hospital,Government,GEN-00145,13.193719,92.954853
+Government Goa West Hospital 1,"Main Road, Goa West, Goa",Goa,Goa West,Block C,640072,District Hospital,Government,GEN-00146,21.71276,81.941237
+Government Goa West Hospital 2,"Main Road, Goa West, Goa",Goa,Goa West,Block A,498330,Sub District Hospital,Government,GEN-00147,12.340875,69.522922
+Government Goa West Hospital 3,"Main Road, Goa West, Goa",Goa,Goa West,Block C,563492,Community Health Centre,Government,GEN-00148,33.050009,85.144666
+Government Goa West Hospital 4,"Main Road, Goa West, Goa",Goa,Goa West,Block B,221429,Primary Health Centre,Government,GEN-00149,8.795309,74.391889
+Government Goa West Hospital 5,"Main Road, Goa West, Goa",Goa,Goa West,Block C,849066,Medical College Hospital,Government,GEN-00150,14.629132,70.703084
+Government Gujarat Central Hospital 1,"Main Road, Gujarat Central, Gujarat",Gujarat,Gujarat Central,Block A,516145,District Hospital,Government,GEN-00151,10.296381,89.727897
+Government Gujarat Central Hospital 2,"Main Road, Gujarat Central, Gujarat",Gujarat,Gujarat Central,Block B,339687,Sub District Hospital,Government,GEN-00152,30.887733,89.68263
+Government Gujarat Central Hospital 3,"Main Road, Gujarat Central, Gujarat",Gujarat,Gujarat Central,Block A,826002,Community Health Centre,Government,GEN-00153,22.755947,71.108637
+Government Gujarat Central Hospital 4,"Main Road, Gujarat Central, Gujarat",Gujarat,Gujarat Central,Block A,353010,Primary Health Centre,Government,GEN-00154,25.078171,84.011045
+Government Gujarat Central Hospital 5,"Main Road, Gujarat Central, Gujarat",Gujarat,Gujarat Central,Block C,497392,Medical College Hospital,Government,GEN-00155,24.157662,82.160339
+Government Gujarat North Hospital 1,"Main Road, Gujarat North, Gujarat",Gujarat,Gujarat North,Block A,430237,District Hospital,Government,GEN-00156,15.966538,77.940566
+Government Gujarat North Hospital 2,"Main Road, Gujarat North, Gujarat",Gujarat,Gujarat North,Block B,467349,Sub District Hospital,Government,GEN-00157,32.72778,79.113943
+Government Gujarat North Hospital 3,"Main Road, Gujarat North, Gujarat",Gujarat,Gujarat North,Block A,350024,Community Health Centre,Government,GEN-00158,33.425635,83.514202
+Government Gujarat North Hospital 4,"Main Road, Gujarat North, Gujarat",Gujarat,Gujarat North,Block B,305529,Primary Health Centre,Government,GEN-00159,20.366034,90.547466
+Government Gujarat North Hospital 5,"Main Road, Gujarat North, Gujarat",Gujarat,Gujarat North,Block A,741328,Medical College Hospital,Government,GEN-00160,12.36206,92.491374
+Government Gujarat South Hospital 1,"Main Road, Gujarat South, Gujarat",Gujarat,Gujarat South,Block A,359991,District Hospital,Government,GEN-00161,26.314446,83.870507
+Government Gujarat South Hospital 2,"Main Road, Gujarat South, Gujarat",Gujarat,Gujarat South,Block A,367540,Sub District Hospital,Government,GEN-00162,32.087471,75.372731
+Government Gujarat South Hospital 3,"Main Road, Gujarat South, Gujarat",Gujarat,Gujarat South,Block A,505274,Community Health Centre,Government,GEN-00163,22.934374,69.889048
+Government Gujarat South Hospital 4,"Main Road, Gujarat South, Gujarat",Gujarat,Gujarat South,Block C,507391,Primary Health Centre,Government,GEN-00164,28.870097,84.245135
+Government Gujarat South Hospital 5,"Main Road, Gujarat South, Gujarat",Gujarat,Gujarat South,Block B,546375,Medical College Hospital,Government,GEN-00165,25.507244,95.518387
+Government Gujarat East Hospital 1,"Main Road, Gujarat East, Gujarat",Gujarat,Gujarat East,Block C,285156,District Hospital,Government,GEN-00166,24.891659,74.724777
+Government Gujarat East Hospital 2,"Main Road, Gujarat East, Gujarat",Gujarat,Gujarat East,Block C,765411,Sub District Hospital,Government,GEN-00167,11.143051,88.714612
+Government Gujarat East Hospital 3,"Main Road, Gujarat East, Gujarat",Gujarat,Gujarat East,Block A,746475,Community Health Centre,Government,GEN-00168,27.441583,72.900063
+Government Gujarat East Hospital 4,"Main Road, Gujarat East, Gujarat",Gujarat,Gujarat East,Block A,675165,Primary Health Centre,Government,GEN-00169,8.813757,90.704419
+Government Gujarat East Hospital 5,"Main Road, Gujarat East, Gujarat",Gujarat,Gujarat East,Block C,620783,Medical College Hospital,Government,GEN-00170,9.124424,96.980411
+Government Gujarat West Hospital 1,"Main Road, Gujarat West, Gujarat",Gujarat,Gujarat West,Block B,389613,District Hospital,Government,GEN-00171,26.073156,84.737667
+Government Gujarat West Hospital 2,"Main Road, Gujarat West, Gujarat",Gujarat,Gujarat West,Block A,233842,Sub District Hospital,Government,GEN-00172,17.884215,76.522458
+Government Gujarat West Hospital 3,"Main Road, Gujarat West, Gujarat",Gujarat,Gujarat West,Block B,539429,Community Health Centre,Government,GEN-00173,28.766149,86.820996
+Government Gujarat West Hospital 4,"Main Road, Gujarat West, Gujarat",Gujarat,Gujarat West,Block B,333432,Primary Health Centre,Government,GEN-00174,28.947946,68.291356
+Government Gujarat West Hospital 5,"Main Road, Gujarat West, Gujarat",Gujarat,Gujarat West,Block B,500979,Medical College Hospital,Government,GEN-00175,25.798162,87.853962
+Government Haryana Central Hospital 1,"Main Road, Haryana Central, Haryana",Haryana,Haryana Central,Block A,667787,District Hospital,Government,GEN-00176,12.596534,89.710149
+Government Haryana Central Hospital 2,"Main Road, Haryana Central, Haryana",Haryana,Haryana Central,Block A,314801,Sub District Hospital,Government,GEN-00177,13.07832,80.601348
+Government Haryana Central Hospital 3,"Main Road, Haryana Central, Haryana",Haryana,Haryana Central,Block C,124953,Community Health Centre,Government,GEN-00178,34.933682,89.791527
+Government Haryana Central Hospital 4,"Main Road, Haryana Central, Haryana",Haryana,Haryana Central,Block A,698884,Primary Health Centre,Government,GEN-00179,20.785143,74.175821
+Government Haryana Central Hospital 5,"Main Road, Haryana Central, Haryana",Haryana,Haryana Central,Block C,542136,Medical College Hospital,Government,GEN-00180,21.9714,94.824776
+Government Haryana North Hospital 1,"Main Road, Haryana North, Haryana",Haryana,Haryana North,Block B,431433,District Hospital,Government,GEN-00181,22.53453,74.978749
+Government Haryana North Hospital 2,"Main Road, Haryana North, Haryana",Haryana,Haryana North,Block C,516842,Sub District Hospital,Government,GEN-00182,28.593359,86.740178
+Government Haryana North Hospital 3,"Main Road, Haryana North, Haryana",Haryana,Haryana North,Block C,541555,Community Health Centre,Government,GEN-00183,19.417005,71.696335
+Government Haryana North Hospital 4,"Main Road, Haryana North, Haryana",Haryana,Haryana North,Block B,265487,Primary Health Centre,Government,GEN-00184,9.128953,86.402822
+Government Haryana North Hospital 5,"Main Road, Haryana North, Haryana",Haryana,Haryana North,Block A,290087,Medical College Hospital,Government,GEN-00185,25.259464,90.448264
+Government Haryana South Hospital 1,"Main Road, Haryana South, Haryana",Haryana,Haryana South,Block B,776929,District Hospital,Government,GEN-00186,14.991841,91.581338
+Government Haryana South Hospital 2,"Main Road, Haryana South, Haryana",Haryana,Haryana South,Block C,201638,Sub District Hospital,Government,GEN-00187,21.612182,92.999789
+Government Haryana South Hospital 3,"Main Road, Haryana South, Haryana",Haryana,Haryana South,Block B,367108,Community Health Centre,Government,GEN-00188,33.322868,78.731584
+Government Haryana South Hospital 4,"Main Road, Haryana South, Haryana",Haryana,Haryana South,Block C,561430,Primary Health Centre,Government,GEN-00189,8.658369,71.038211
+Government Haryana South Hospital 5,"Main Road, Haryana South, Haryana",Haryana,Haryana South,Block A,329827,Medical College Hospital,Government,GEN-00190,33.4191,81.106695
+Government Haryana East Hospital 1,"Main Road, Haryana East, Haryana",Haryana,Haryana East,Block B,715022,District Hospital,Government,GEN-00191,34.48447,85.422779
+Government Haryana East Hospital 2,"Main Road, Haryana East, Haryana",Haryana,Haryana East,Block C,757347,Sub District Hospital,Government,GEN-00192,17.325706,71.641575
+Government Haryana East Hospital 3,"Main Road, Haryana East, Haryana",Haryana,Haryana East,Block C,584028,Community Health Centre,Government,GEN-00193,8.080931,73.054248
+Government Haryana East Hospital 4,"Main Road, Haryana East, Haryana",Haryana,Haryana East,Block C,148803,Primary Health Centre,Government,GEN-00194,16.994502,87.323926
+Government Haryana East Hospital 5,"Main Road, Haryana East, Haryana",Haryana,Haryana East,Block A,394636,Medical College Hospital,Government,GEN-00195,11.430224,68.579768
+Government Haryana West Hospital 1,"Main Road, Haryana West, Haryana",Haryana,Haryana West,Block B,503565,District Hospital,Government,GEN-00196,9.067138,81.532967
+Government Haryana West Hospital 2,"Main Road, Haryana West, Haryana",Haryana,Haryana West,Block C,731127,Sub District Hospital,Government,GEN-00197,9.384028,90.522038
+Government Haryana West Hospital 3,"Main Road, Haryana West, Haryana",Haryana,Haryana West,Block A,403272,Community Health Centre,Government,GEN-00198,9.951499,93.199169
+Government Haryana West Hospital 4,"Main Road, Haryana West, Haryana",Haryana,Haryana West,Block C,429609,Primary Health Centre,Government,GEN-00199,16.888972,79.503643
+Government Haryana West Hospital 5,"Main Road, Haryana West, Haryana",Haryana,Haryana West,Block B,448392,Medical College Hospital,Government,GEN-00200,27.808774,75.02324
+Government Himachal Central Hospital 1,"Main Road, Himachal Central, Himachal Pradesh",Himachal Pradesh,Himachal Central,Block A,682810,District Hospital,Government,GEN-00201,20.887968,77.70404
+Government Himachal Central Hospital 2,"Main Road, Himachal Central, Himachal Pradesh",Himachal Pradesh,Himachal Central,Block C,665125,Sub District Hospital,Government,GEN-00202,31.348371,86.56958
+Government Himachal Central Hospital 3,"Main Road, Himachal Central, Himachal Pradesh",Himachal Pradesh,Himachal Central,Block B,838396,Community Health Centre,Government,GEN-00203,21.468947,96.963812
+Government Himachal Central Hospital 4,"Main Road, Himachal Central, Himachal Pradesh",Himachal Pradesh,Himachal Central,Block C,595155,Primary Health Centre,Government,GEN-00204,20.085896,78.341849
+Government Himachal Central Hospital 5,"Main Road, Himachal Central, Himachal Pradesh",Himachal Pradesh,Himachal Central,Block C,172321,Medical College Hospital,Government,GEN-00205,20.988883,71.59628
+Government Himachal North Hospital 1,"Main Road, Himachal North, Himachal Pradesh",Himachal Pradesh,Himachal North,Block A,451860,District Hospital,Government,GEN-00206,19.893933,88.321931
+Government Himachal North Hospital 2,"Main Road, Himachal North, Himachal Pradesh",Himachal Pradesh,Himachal North,Block C,653228,Sub District Hospital,Government,GEN-00207,34.700986,92.651439
+Government Himachal North Hospital 3,"Main Road, Himachal North, Himachal Pradesh",Himachal Pradesh,Himachal North,Block B,701858,Community Health Centre,Government,GEN-00208,35.279046,79.074412
+Government Himachal North Hospital 4,"Main Road, Himachal North, Himachal Pradesh",Himachal Pradesh,Himachal North,Block B,826547,Primary Health Centre,Government,GEN-00209,8.241181,85.302756
+Government Himachal North Hospital 5,"Main Road, Himachal North, Himachal Pradesh",Himachal Pradesh,Himachal North,Block A,725745,Medical College Hospital,Government,GEN-00210,26.971917,95.520121
+Government Himachal South Hospital 1,"Main Road, Himachal South, Himachal Pradesh",Himachal Pradesh,Himachal South,Block B,778484,District Hospital,Government,GEN-00211,17.948204,83.887759
+Government Himachal South Hospital 2,"Main Road, Himachal South, Himachal Pradesh",Himachal Pradesh,Himachal South,Block C,724530,Sub District Hospital,Government,GEN-00212,16.726499,83.855382
+Government Himachal South Hospital 3,"Main Road, Himachal South, Himachal Pradesh",Himachal Pradesh,Himachal South,Block A,838578,Community Health Centre,Government,GEN-00213,11.365703,77.279285
+Government Himachal South Hospital 4,"Main Road, Himachal South, Himachal Pradesh",Himachal Pradesh,Himachal South,Block C,344022,Primary Health Centre,Government,GEN-00214,28.904249,86.346049
+Government Himachal South Hospital 5,"Main Road, Himachal South, Himachal Pradesh",Himachal Pradesh,Himachal South,Block A,316938,Medical College Hospital,Government,GEN-00215,28.792731,68.131122
+Government Himachal East Hospital 1,"Main Road, Himachal East, Himachal Pradesh",Himachal Pradesh,Himachal East,Block C,754161,District Hospital,Government,GEN-00216,31.329609,86.900892
+Government Himachal East Hospital 2,"Main Road, Himachal East, Himachal Pradesh",Himachal Pradesh,Himachal East,Block B,294896,Sub District Hospital,Government,GEN-00217,15.964953,94.734639
+Government Himachal East Hospital 3,"Main Road, Himachal East, Himachal Pradesh",Himachal Pradesh,Himachal East,Block A,788699,Community Health Centre,Government,GEN-00218,31.165438,84.619819
+Government Himachal East Hospital 4,"Main Road, Himachal East, Himachal Pradesh",Himachal Pradesh,Himachal East,Block C,229032,Primary Health Centre,Government,GEN-00219,21.886642,72.729392
+Government Himachal East Hospital 5,"Main Road, Himachal East, Himachal Pradesh",Himachal Pradesh,Himachal East,Block B,243407,Medical College Hospital,Government,GEN-00220,15.542066,86.259426
+Government Himachal West Hospital 1,"Main Road, Himachal West, Himachal Pradesh",Himachal Pradesh,Himachal West,Block C,519026,District Hospital,Government,GEN-00221,26.283484,80.235494
+Government Himachal West Hospital 2,"Main Road, Himachal West, Himachal Pradesh",Himachal Pradesh,Himachal West,Block A,810749,Sub District Hospital,Government,GEN-00222,35.163171,88.792693
+Government Himachal West Hospital 3,"Main Road, Himachal West, Himachal Pradesh",Himachal Pradesh,Himachal West,Block C,313251,Community Health Centre,Government,GEN-00223,17.421764,71.287
+Government Himachal West Hospital 4,"Main Road, Himachal West, Himachal Pradesh",Himachal Pradesh,Himachal West,Block A,198345,Primary Health Centre,Government,GEN-00224,15.881664,79.55071
+Government Himachal West Hospital 5,"Main Road, Himachal West, Himachal Pradesh",Himachal Pradesh,Himachal West,Block A,758795,Medical College Hospital,Government,GEN-00225,26.691325,94.620935
+Government Jharkhand Central Hospital 1,"Main Road, Jharkhand Central, Jharkhand",Jharkhand,Jharkhand Central,Block B,317372,District Hospital,Government,GEN-00226,9.434523,94.4794
+Government Jharkhand Central Hospital 2,"Main Road, Jharkhand Central, Jharkhand",Jharkhand,Jharkhand Central,Block A,753193,Sub District Hospital,Government,GEN-00227,10.695817,84.213072
+Government Jharkhand Central Hospital 3,"Main Road, Jharkhand Central, Jharkhand",Jharkhand,Jharkhand Central,Block A,362658,Community Health Centre,Government,GEN-00228,33.908328,86.328723
+Government Jharkhand Central Hospital 4,"Main Road, Jharkhand Central, Jharkhand",Jharkhand,Jharkhand Central,Block B,702773,Primary Health Centre,Government,GEN-00229,23.683381,96.797032
+Government Jharkhand Central Hospital 5,"Main Road, Jharkhand Central, Jharkhand",Jharkhand,Jharkhand Central,Block B,336730,Medical College Hospital,Government,GEN-00230,36.103106,93.362588
+Government Jharkhand North Hospital 1,"Main Road, Jharkhand North, Jharkhand",Jharkhand,Jharkhand North,Block A,206270,District Hospital,Government,GEN-00231,25.293651,80.455889
+Government Jharkhand North Hospital 2,"Main Road, Jharkhand North, Jharkhand",Jharkhand,Jharkhand North,Block B,596086,Sub District Hospital,Government,GEN-00232,8.58696,71.773018
+Government Jharkhand North Hospital 3,"Main Road, Jharkhand North, Jharkhand",Jharkhand,Jharkhand North,Block A,767928,Community Health Centre,Government,GEN-00233,10.961588,85.782982
+Government Jharkhand North Hospital 4,"Main Road, Jharkhand North, Jharkhand",Jharkhand,Jharkhand North,Block A,139771,Primary Health Centre,Government,GEN-00234,11.27587,76.777474
+Government Jharkhand North Hospital 5,"Main Road, Jharkhand North, Jharkhand",Jharkhand,Jharkhand North,Block B,630856,Medical College Hospital,Government,GEN-00235,11.110253,90.762502
+Government Jharkhand South Hospital 1,"Main Road, Jharkhand South, Jharkhand",Jharkhand,Jharkhand South,Block B,549324,District Hospital,Government,GEN-00236,15.0313,79.071808
+Government Jharkhand South Hospital 2,"Main Road, Jharkhand South, Jharkhand",Jharkhand,Jharkhand South,Block A,666055,Sub District Hospital,Government,GEN-00237,13.995643,71.064592
+Government Jharkhand South Hospital 3,"Main Road, Jharkhand South, Jharkhand",Jharkhand,Jharkhand South,Block C,512439,Community Health Centre,Government,GEN-00238,15.315596,95.643416
+Government Jharkhand South Hospital 4,"Main Road, Jharkhand South, Jharkhand",Jharkhand,Jharkhand South,Block C,173532,Primary Health Centre,Government,GEN-00239,36.683897,95.030498
+Government Jharkhand South Hospital 5,"Main Road, Jharkhand South, Jharkhand",Jharkhand,Jharkhand South,Block C,290459,Medical College Hospital,Government,GEN-00240,32.162973,88.075669
+Government Jharkhand East Hospital 1,"Main Road, Jharkhand East, Jharkhand",Jharkhand,Jharkhand East,Block B,248194,District Hospital,Government,GEN-00241,9.879984,88.847369
+Government Jharkhand East Hospital 2,"Main Road, Jharkhand East, Jharkhand",Jharkhand,Jharkhand East,Block B,439787,Sub District Hospital,Government,GEN-00242,32.862814,73.587698
+Government Jharkhand East Hospital 3,"Main Road, Jharkhand East, Jharkhand",Jharkhand,Jharkhand East,Block C,271603,Community Health Centre,Government,GEN-00243,32.966115,79.942501
+Government Jharkhand East Hospital 4,"Main Road, Jharkhand East, Jharkhand",Jharkhand,Jharkhand East,Block A,551626,Primary Health Centre,Government,GEN-00244,8.600723,72.304014
+Government Jharkhand East Hospital 5,"Main Road, Jharkhand East, Jharkhand",Jharkhand,Jharkhand East,Block C,799384,Medical College Hospital,Government,GEN-00245,18.197231,83.961266
+Government Jharkhand West Hospital 1,"Main Road, Jharkhand West, Jharkhand",Jharkhand,Jharkhand West,Block B,400049,District Hospital,Government,GEN-00246,10.368338,77.331142
+Government Jharkhand West Hospital 2,"Main Road, Jharkhand West, Jharkhand",Jharkhand,Jharkhand West,Block A,503521,Sub District Hospital,Government,GEN-00247,15.227629,96.878348
+Government Jharkhand West Hospital 3,"Main Road, Jharkhand West, Jharkhand",Jharkhand,Jharkhand West,Block C,402718,Community Health Centre,Government,GEN-00248,25.787899,85.567256
+Government Jharkhand West Hospital 4,"Main Road, Jharkhand West, Jharkhand",Jharkhand,Jharkhand West,Block A,179202,Primary Health Centre,Government,GEN-00249,29.438019,87.836883
+Government Jharkhand West Hospital 5,"Main Road, Jharkhand West, Jharkhand",Jharkhand,Jharkhand West,Block A,762937,Medical College Hospital,Government,GEN-00250,28.354912,92.284686
+Government Karnataka Central Hospital 1,"Main Road, Karnataka Central, Karnataka",Karnataka,Karnataka Central,Block B,821177,District Hospital,Government,GEN-00251,12.576141,72.404452
+Government Karnataka Central Hospital 2,"Main Road, Karnataka Central, Karnataka",Karnataka,Karnataka Central,Block C,333085,Sub District Hospital,Government,GEN-00252,33.186541,68.274535
+Government Karnataka Central Hospital 3,"Main Road, Karnataka Central, Karnataka",Karnataka,Karnataka Central,Block C,770702,Community Health Centre,Government,GEN-00253,21.810367,69.06916
+Government Karnataka Central Hospital 4,"Main Road, Karnataka Central, Karnataka",Karnataka,Karnataka Central,Block C,692165,Primary Health Centre,Government,GEN-00254,35.961864,86.538372
+Government Karnataka Central Hospital 5,"Main Road, Karnataka Central, Karnataka",Karnataka,Karnataka Central,Block C,214702,Medical College Hospital,Government,GEN-00255,30.155089,91.425448
+Government Karnataka North Hospital 1,"Main Road, Karnataka North, Karnataka",Karnataka,Karnataka North,Block A,828684,District Hospital,Government,GEN-00256,18.068445,76.680785
+Government Karnataka North Hospital 2,"Main Road, Karnataka North, Karnataka",Karnataka,Karnataka North,Block C,795550,Sub District Hospital,Government,GEN-00257,24.587672,85.132007
+Government Karnataka North Hospital 3,"Main Road, Karnataka North, Karnataka",Karnataka,Karnataka North,Block A,696845,Community Health Centre,Government,GEN-00258,24.293263,80.197863
+Government Karnataka North Hospital 4,"Main Road, Karnataka North, Karnataka",Karnataka,Karnataka North,Block A,771918,Primary Health Centre,Government,GEN-00259,9.963912,72.431701
+Government Karnataka North Hospital 5,"Main Road, Karnataka North, Karnataka",Karnataka,Karnataka North,Block C,697971,Medical College Hospital,Government,GEN-00260,33.664429,83.045464
+Government Karnataka South Hospital 1,"Main Road, Karnataka South, Karnataka",Karnataka,Karnataka South,Block A,230201,District Hospital,Government,GEN-00261,29.162164,94.602245
+Government Karnataka South Hospital 2,"Main Road, Karnataka South, Karnataka",Karnataka,Karnataka South,Block A,347611,Sub District Hospital,Government,GEN-00262,9.777655,85.695766
+Government Karnataka South Hospital 3,"Main Road, Karnataka South, Karnataka",Karnataka,Karnataka South,Block B,281053,Community Health Centre,Government,GEN-00263,36.045562,82.346378
+Government Karnataka South Hospital 4,"Main Road, Karnataka South, Karnataka",Karnataka,Karnataka South,Block B,162014,Primary Health Centre,Government,GEN-00264,28.481155,87.736758
+Government Karnataka South Hospital 5,"Main Road, Karnataka South, Karnataka",Karnataka,Karnataka South,Block A,161311,Medical College Hospital,Government,GEN-00265,13.603,72.748113
+Government Karnataka East Hospital 1,"Main Road, Karnataka East, Karnataka",Karnataka,Karnataka East,Block A,157867,District Hospital,Government,GEN-00266,11.953669,78.334777
+Government Karnataka East Hospital 2,"Main Road, Karnataka East, Karnataka",Karnataka,Karnataka East,Block C,244712,Sub District Hospital,Government,GEN-00267,33.574837,81.166779
+Government Karnataka East Hospital 3,"Main Road, Karnataka East, Karnataka",Karnataka,Karnataka East,Block A,430932,Community Health Centre,Government,GEN-00268,10.770252,95.156063
+Government Karnataka East Hospital 4,"Main Road, Karnataka East, Karnataka",Karnataka,Karnataka East,Block A,562533,Primary Health Centre,Government,GEN-00269,30.624414,90.242066
+Government Karnataka East Hospital 5,"Main Road, Karnataka East, Karnataka",Karnataka,Karnataka East,Block A,852052,Medical College Hospital,Government,GEN-00270,8.63027,89.834369
+Government Karnataka West Hospital 1,"Main Road, Karnataka West, Karnataka",Karnataka,Karnataka West,Block B,132671,District Hospital,Government,GEN-00271,11.319369,69.946921
+Government Karnataka West Hospital 2,"Main Road, Karnataka West, Karnataka",Karnataka,Karnataka West,Block C,608784,Sub District Hospital,Government,GEN-00272,25.430513,86.534422
+Government Karnataka West Hospital 3,"Main Road, Karnataka West, Karnataka",Karnataka,Karnataka West,Block B,735668,Community Health Centre,Government,GEN-00273,14.746286,68.848104
+Government Karnataka West Hospital 4,"Main Road, Karnataka West, Karnataka",Karnataka,Karnataka West,Block A,719516,Primary Health Centre,Government,GEN-00274,37.149021,70.768085
+Government Karnataka West Hospital 5,"Main Road, Karnataka West, Karnataka",Karnataka,Karnataka West,Block B,817106,Medical College Hospital,Government,GEN-00275,25.825197,68.14452
+Government Kerala Central Hospital 1,"Main Road, Kerala Central, Kerala",Kerala,Kerala Central,Block C,144235,District Hospital,Government,GEN-00276,16.49572,70.868666
+Government Kerala Central Hospital 2,"Main Road, Kerala Central, Kerala",Kerala,Kerala Central,Block C,787630,Sub District Hospital,Government,GEN-00277,34.16389,69.290536
+Government Kerala Central Hospital 3,"Main Road, Kerala Central, Kerala",Kerala,Kerala Central,Block B,163711,Community Health Centre,Government,GEN-00278,30.838334,78.303516
+Government Kerala Central Hospital 4,"Main Road, Kerala Central, Kerala",Kerala,Kerala Central,Block A,256208,Primary Health Centre,Government,GEN-00279,11.738059,84.441222
+Government Kerala Central Hospital 5,"Main Road, Kerala Central, Kerala",Kerala,Kerala Central,Block B,464722,Medical College Hospital,Government,GEN-00280,24.438633,79.650963
+Government Kerala North Hospital 1,"Main Road, Kerala North, Kerala",Kerala,Kerala North,Block A,767013,District Hospital,Government,GEN-00281,29.686846,95.240759
+Government Kerala North Hospital 2,"Main Road, Kerala North, Kerala",Kerala,Kerala North,Block A,473623,Sub District Hospital,Government,GEN-00282,23.81558,71.121785
+Government Kerala North Hospital 3,"Main Road, Kerala North, Kerala",Kerala,Kerala North,Block B,509117,Community Health Centre,Government,GEN-00283,37.441528,96.279867
+Government Kerala North Hospital 4,"Main Road, Kerala North, Kerala",Kerala,Kerala North,Block A,363898,Primary Health Centre,Government,GEN-00284,17.491979,94.4476
+Government Kerala North Hospital 5,"Main Road, Kerala North, Kerala",Kerala,Kerala North,Block A,229344,Medical College Hospital,Government,GEN-00285,13.80338,85.078295
+Government Kerala South Hospital 1,"Main Road, Kerala South, Kerala",Kerala,Kerala South,Block A,334823,District Hospital,Government,GEN-00286,35.213393,73.699377
+Government Kerala South Hospital 2,"Main Road, Kerala South, Kerala",Kerala,Kerala South,Block C,401522,Sub District Hospital,Government,GEN-00287,34.983392,70.255182
+Government Kerala South Hospital 3,"Main Road, Kerala South, Kerala",Kerala,Kerala South,Block A,654980,Community Health Centre,Government,GEN-00288,31.928866,94.240787
+Government Kerala South Hospital 4,"Main Road, Kerala South, Kerala",Kerala,Kerala South,Block A,163424,Primary Health Centre,Government,GEN-00289,29.714319,82.252727
+Government Kerala South Hospital 5,"Main Road, Kerala South, Kerala",Kerala,Kerala South,Block A,230267,Medical College Hospital,Government,GEN-00290,24.297905,82.48368
+Government Kerala East Hospital 1,"Main Road, Kerala East, Kerala",Kerala,Kerala East,Block C,163455,District Hospital,Government,GEN-00291,27.503406,76.598693
+Government Kerala East Hospital 2,"Main Road, Kerala East, Kerala",Kerala,Kerala East,Block A,622600,Sub District Hospital,Government,GEN-00292,29.292026,78.361023
+Government Kerala East Hospital 3,"Main Road, Kerala East, Kerala",Kerala,Kerala East,Block B,424120,Community Health Centre,Government,GEN-00293,11.459898,73.529763
+Government Kerala East Hospital 4,"Main Road, Kerala East, Kerala",Kerala,Kerala East,Block B,837959,Primary Health Centre,Government,GEN-00294,18.117031,69.107887
+Government Kerala East Hospital 5,"Main Road, Kerala East, Kerala",Kerala,Kerala East,Block A,484678,Medical College Hospital,Government,GEN-00295,12.984396,77.696511
+Government Kerala West Hospital 1,"Main Road, Kerala West, Kerala",Kerala,Kerala West,Block B,508726,District Hospital,Government,GEN-00296,36.875052,82.644258
+Government Kerala West Hospital 2,"Main Road, Kerala West, Kerala",Kerala,Kerala West,Block C,114709,Sub District Hospital,Government,GEN-00297,37.427368,81.366436
+Government Kerala West Hospital 3,"Main Road, Kerala West, Kerala",Kerala,Kerala West,Block A,261050,Community Health Centre,Government,GEN-00298,23.738735,84.753844
+Government Kerala West Hospital 4,"Main Road, Kerala West, Kerala",Kerala,Kerala West,Block A,457079,Primary Health Centre,Government,GEN-00299,17.787786,89.585119
+Government Kerala West Hospital 5,"Main Road, Kerala West, Kerala",Kerala,Kerala West,Block A,450965,Medical College Hospital,Government,GEN-00300,28.776475,76.409677
+Government Madhya Central Hospital 1,"Main Road, Madhya Central, Madhya Pradesh",Madhya Pradesh,Madhya Central,Block C,571079,District Hospital,Government,GEN-00301,29.845292,71.860685
+Government Madhya Central Hospital 2,"Main Road, Madhya Central, Madhya Pradesh",Madhya Pradesh,Madhya Central,Block B,149880,Sub District Hospital,Government,GEN-00302,14.49564,68.901551
+Government Madhya Central Hospital 3,"Main Road, Madhya Central, Madhya Pradesh",Madhya Pradesh,Madhya Central,Block B,296796,Community Health Centre,Government,GEN-00303,28.546352,83.711856
+Government Madhya Central Hospital 4,"Main Road, Madhya Central, Madhya Pradesh",Madhya Pradesh,Madhya Central,Block A,678836,Primary Health Centre,Government,GEN-00304,11.166316,88.979278
+Government Madhya Central Hospital 5,"Main Road, Madhya Central, Madhya Pradesh",Madhya Pradesh,Madhya Central,Block B,478427,Medical College Hospital,Government,GEN-00305,24.378503,82.441778
+Government Madhya North Hospital 1,"Main Road, Madhya North, Madhya Pradesh",Madhya Pradesh,Madhya North,Block C,399633,District Hospital,Government,GEN-00306,30.562779,85.139249
+Government Madhya North Hospital 2,"Main Road, Madhya North, Madhya Pradesh",Madhya Pradesh,Madhya North,Block A,409475,Sub District Hospital,Government,GEN-00307,34.488382,95.864446
+Government Madhya North Hospital 3,"Main Road, Madhya North, Madhya Pradesh",Madhya Pradesh,Madhya North,Block A,698986,Community Health Centre,Government,GEN-00308,16.335788,70.496314
+Government Madhya North Hospital 4,"Main Road, Madhya North, Madhya Pradesh",Madhya Pradesh,Madhya North,Block B,782340,Primary Health Centre,Government,GEN-00309,9.881494,78.489392
+Government Madhya North Hospital 5,"Main Road, Madhya North, Madhya Pradesh",Madhya Pradesh,Madhya North,Block C,592904,Medical College Hospital,Government,GEN-00310,22.679391,91.916912
+Government Madhya South Hospital 1,"Main Road, Madhya South, Madhya Pradesh",Madhya Pradesh,Madhya South,Block A,184406,District Hospital,Government,GEN-00311,21.298942,78.497344
+Government Madhya South Hospital 2,"Main Road, Madhya South, Madhya Pradesh",Madhya Pradesh,Madhya South,Block A,614344,Sub District Hospital,Government,GEN-00312,32.811766,77.312356
+Government Madhya South Hospital 3,"Main Road, Madhya South, Madhya Pradesh",Madhya Pradesh,Madhya South,Block B,492851,Community Health Centre,Government,GEN-00313,8.286645,95.728366
+Government Madhya South Hospital 4,"Main Road, Madhya South, Madhya Pradesh",Madhya Pradesh,Madhya South,Block C,360177,Primary Health Centre,Government,GEN-00314,26.919794,68.989187
+Government Madhya South Hospital 5,"Main Road, Madhya South, Madhya Pradesh",Madhya Pradesh,Madhya South,Block A,605068,Medical College Hospital,Government,GEN-00315,24.618143,96.210153
+Government Madhya East Hospital 1,"Main Road, Madhya East, Madhya Pradesh",Madhya Pradesh,Madhya East,Block B,467184,District Hospital,Government,GEN-00316,11.138284,88.655793
+Government Madhya East Hospital 2,"Main Road, Madhya East, Madhya Pradesh",Madhya Pradesh,Madhya East,Block A,828263,Sub District Hospital,Government,GEN-00317,32.383182,95.745503
+Government Madhya East Hospital 3,"Main Road, Madhya East, Madhya Pradesh",Madhya Pradesh,Madhya East,Block B,439847,Community Health Centre,Government,GEN-00318,13.282557,83.40557
+Government Madhya East Hospital 4,"Main Road, Madhya East, Madhya Pradesh",Madhya Pradesh,Madhya East,Block A,279150,Primary Health Centre,Government,GEN-00319,20.528394,90.124528
+Government Madhya East Hospital 5,"Main Road, Madhya East, Madhya Pradesh",Madhya Pradesh,Madhya East,Block B,528233,Medical College Hospital,Government,GEN-00320,11.322476,90.801392
+Government Madhya West Hospital 1,"Main Road, Madhya West, Madhya Pradesh",Madhya Pradesh,Madhya West,Block A,307228,District Hospital,Government,GEN-00321,19.598713,88.364998
+Government Madhya West Hospital 2,"Main Road, Madhya West, Madhya Pradesh",Madhya Pradesh,Madhya West,Block A,566456,Sub District Hospital,Government,GEN-00322,23.865953,82.94697
+Government Madhya West Hospital 3,"Main Road, Madhya West, Madhya Pradesh",Madhya Pradesh,Madhya West,Block C,293489,Community Health Centre,Government,GEN-00323,28.667819,70.907202
+Government Madhya West Hospital 4,"Main Road, Madhya West, Madhya Pradesh",Madhya Pradesh,Madhya West,Block C,794009,Primary Health Centre,Government,GEN-00324,11.808744,73.096433
+Government Madhya West Hospital 5,"Main Road, Madhya West, Madhya Pradesh",Madhya Pradesh,Madhya West,Block A,526692,Medical College Hospital,Government,GEN-00325,21.834129,85.437063
+Government Maharashtra Central Hospital 1,"Main Road, Maharashtra Central, Maharashtra",Maharashtra,Maharashtra Central,Block B,137381,District Hospital,Government,GEN-00326,30.598412,69.357677
+Government Maharashtra Central Hospital 2,"Main Road, Maharashtra Central, Maharashtra",Maharashtra,Maharashtra Central,Block C,531418,Sub District Hospital,Government,GEN-00327,23.373946,72.083743
+Government Maharashtra Central Hospital 3,"Main Road, Maharashtra Central, Maharashtra",Maharashtra,Maharashtra Central,Block A,749945,Community Health Centre,Government,GEN-00328,17.819764,69.576053
+Government Maharashtra Central Hospital 4,"Main Road, Maharashtra Central, Maharashtra",Maharashtra,Maharashtra Central,Block B,553421,Primary Health Centre,Government,GEN-00329,31.709009,82.946918
+Government Maharashtra Central Hospital 5,"Main Road, Maharashtra Central, Maharashtra",Maharashtra,Maharashtra Central,Block A,405148,Medical College Hospital,Government,GEN-00330,31.357943,68.194855
+Government Maharashtra North Hospital 1,"Main Road, Maharashtra North, Maharashtra",Maharashtra,Maharashtra North,Block A,173007,District Hospital,Government,GEN-00331,12.777425,93.720666
+Government Maharashtra North Hospital 2,"Main Road, Maharashtra North, Maharashtra",Maharashtra,Maharashtra North,Block C,605386,Sub District Hospital,Government,GEN-00332,19.19456,79.736935
+Government Maharashtra North Hospital 3,"Main Road, Maharashtra North, Maharashtra",Maharashtra,Maharashtra North,Block A,255187,Community Health Centre,Government,GEN-00333,8.221618,74.326865
+Government Maharashtra North Hospital 4,"Main Road, Maharashtra North, Maharashtra",Maharashtra,Maharashtra North,Block A,282649,Primary Health Centre,Government,GEN-00334,36.404348,85.443649
+Government Maharashtra North Hospital 5,"Main Road, Maharashtra North, Maharashtra",Maharashtra,Maharashtra North,Block A,127042,Medical College Hospital,Government,GEN-00335,30.21034,96.906869
+Government Maharashtra South Hospital 1,"Main Road, Maharashtra South, Maharashtra",Maharashtra,Maharashtra South,Block A,512389,District Hospital,Government,GEN-00336,20.231841,85.847299
+Government Maharashtra South Hospital 2,"Main Road, Maharashtra South, Maharashtra",Maharashtra,Maharashtra South,Block C,469035,Sub District Hospital,Government,GEN-00337,20.316365,82.836021
+Government Maharashtra South Hospital 3,"Main Road, Maharashtra South, Maharashtra",Maharashtra,Maharashtra South,Block C,292310,Community Health Centre,Government,GEN-00338,20.596688,84.20346
+Government Maharashtra South Hospital 4,"Main Road, Maharashtra South, Maharashtra",Maharashtra,Maharashtra South,Block C,262173,Primary Health Centre,Government,GEN-00339,23.382429,68.646523
+Government Maharashtra South Hospital 5,"Main Road, Maharashtra South, Maharashtra",Maharashtra,Maharashtra South,Block C,155971,Medical College Hospital,Government,GEN-00340,15.271633,84.120421
+Government Maharashtra East Hospital 1,"Main Road, Maharashtra East, Maharashtra",Maharashtra,Maharashtra East,Block C,353689,District Hospital,Government,GEN-00341,17.619047,74.396731
+Government Maharashtra East Hospital 2,"Main Road, Maharashtra East, Maharashtra",Maharashtra,Maharashtra East,Block B,389556,Sub District Hospital,Government,GEN-00342,27.296254,95.51777
+Government Maharashtra East Hospital 3,"Main Road, Maharashtra East, Maharashtra",Maharashtra,Maharashtra East,Block C,137042,Community Health Centre,Government,GEN-00343,11.496279,88.461294
+Government Maharashtra East Hospital 4,"Main Road, Maharashtra East, Maharashtra",Maharashtra,Maharashtra East,Block A,286881,Primary Health Centre,Government,GEN-00344,28.973194,83.768479
+Government Maharashtra East Hospital 5,"Main Road, Maharashtra East, Maharashtra",Maharashtra,Maharashtra East,Block C,200620,Medical College Hospital,Government,GEN-00345,26.546275,69.157907
+Government Maharashtra West Hospital 1,"Main Road, Maharashtra West, Maharashtra",Maharashtra,Maharashtra West,Block B,597579,District Hospital,Government,GEN-00346,21.532656,96.547833
+Government Maharashtra West Hospital 2,"Main Road, Maharashtra West, Maharashtra",Maharashtra,Maharashtra West,Block A,489776,Sub District Hospital,Government,GEN-00347,9.630218,91.617216
+Government Maharashtra West Hospital 3,"Main Road, Maharashtra West, Maharashtra",Maharashtra,Maharashtra West,Block A,220713,Community Health Centre,Government,GEN-00348,36.935776,70.128861
+Government Maharashtra West Hospital 4,"Main Road, Maharashtra West, Maharashtra",Maharashtra,Maharashtra West,Block A,196197,Primary Health Centre,Government,GEN-00349,32.836961,94.176545
+Government Maharashtra West Hospital 5,"Main Road, Maharashtra West, Maharashtra",Maharashtra,Maharashtra West,Block C,369745,Medical College Hospital,Government,GEN-00350,28.012347,84.320378
+Government Manipur Central Hospital 1,"Main Road, Manipur Central, Manipur",Manipur,Manipur Central,Block C,612662,District Hospital,Government,GEN-00351,14.150154,70.992196
+Government Manipur Central Hospital 2,"Main Road, Manipur Central, Manipur",Manipur,Manipur Central,Block C,280921,Sub District Hospital,Government,GEN-00352,25.178251,78.285512
+Government Manipur Central Hospital 3,"Main Road, Manipur Central, Manipur",Manipur,Manipur Central,Block C,559695,Community Health Centre,Government,GEN-00353,17.320574,83.645551
+Government Manipur Central Hospital 4,"Main Road, Manipur Central, Manipur",Manipur,Manipur Central,Block B,352823,Primary Health Centre,Government,GEN-00354,33.736199,70.303417
+Government Manipur Central Hospital 5,"Main Road, Manipur Central, Manipur",Manipur,Manipur Central,Block B,270148,Medical College Hospital,Government,GEN-00355,26.510941,75.841122
+Government Manipur North Hospital 1,"Main Road, Manipur North, Manipur",Manipur,Manipur North,Block A,375202,District Hospital,Government,GEN-00356,27.845655,68.417293
+Government Manipur North Hospital 2,"Main Road, Manipur North, Manipur",Manipur,Manipur North,Block B,553095,Sub District Hospital,Government,GEN-00357,23.940055,88.656144
+Government Manipur North Hospital 3,"Main Road, Manipur North, Manipur",Manipur,Manipur North,Block C,172837,Community Health Centre,Government,GEN-00358,34.071041,87.058538
+Government Manipur North Hospital 4,"Main Road, Manipur North, Manipur",Manipur,Manipur North,Block C,127767,Primary Health Centre,Government,GEN-00359,23.82063,92.286345
+Government Manipur North Hospital 5,"Main Road, Manipur North, Manipur",Manipur,Manipur North,Block A,490037,Medical College Hospital,Government,GEN-00360,9.783498,75.743028
+Government Manipur South Hospital 1,"Main Road, Manipur South, Manipur",Manipur,Manipur South,Block B,184816,District Hospital,Government,GEN-00361,32.36705,70.032017
+Government Manipur South Hospital 2,"Main Road, Manipur South, Manipur",Manipur,Manipur South,Block C,297978,Sub District Hospital,Government,GEN-00362,20.474776,73.207364
+Government Manipur South Hospital 3,"Main Road, Manipur South, Manipur",Manipur,Manipur South,Block A,212354,Community Health Centre,Government,GEN-00363,19.602903,69.215096
+Government Manipur South Hospital 4,"Main Road, Manipur South, Manipur",Manipur,Manipur South,Block A,770309,Primary Health Centre,Government,GEN-00364,29.083807,69.592399
+Government Manipur South Hospital 5,"Main Road, Manipur South, Manipur",Manipur,Manipur South,Block A,131797,Medical College Hospital,Government,GEN-00365,9.73035,78.266301
+Government Manipur East Hospital 1,"Main Road, Manipur East, Manipur",Manipur,Manipur East,Block B,151525,District Hospital,Government,GEN-00366,33.419312,95.211505
+Government Manipur East Hospital 2,"Main Road, Manipur East, Manipur",Manipur,Manipur East,Block B,326685,Sub District Hospital,Government,GEN-00367,27.264828,83.839211
+Government Manipur East Hospital 3,"Main Road, Manipur East, Manipur",Manipur,Manipur East,Block C,140665,Community Health Centre,Government,GEN-00368,12.730448,81.297797
+Government Manipur East Hospital 4,"Main Road, Manipur East, Manipur",Manipur,Manipur East,Block B,592344,Primary Health Centre,Government,GEN-00369,15.135794,75.62922
+Government Manipur East Hospital 5,"Main Road, Manipur East, Manipur",Manipur,Manipur East,Block B,198189,Medical College Hospital,Government,GEN-00370,29.496395,74.08006
+Government Manipur West Hospital 1,"Main Road, Manipur West, Manipur",Manipur,Manipur West,Block A,606033,District Hospital,Government,GEN-00371,37.240311,90.464674
+Government Manipur West Hospital 2,"Main Road, Manipur West, Manipur",Manipur,Manipur West,Block C,565604,Sub District Hospital,Government,GEN-00372,18.45402,96.523803
+Government Manipur West Hospital 3,"Main Road, Manipur West, Manipur",Manipur,Manipur West,Block B,436717,Community Health Centre,Government,GEN-00373,26.752552,76.539272
+Government Manipur West Hospital 4,"Main Road, Manipur West, Manipur",Manipur,Manipur West,Block A,843737,Primary Health Centre,Government,GEN-00374,23.165676,78.259685
+Government Manipur West Hospital 5,"Main Road, Manipur West, Manipur",Manipur,Manipur West,Block A,261946,Medical College Hospital,Government,GEN-00375,10.240168,72.41802
+Government Meghalaya Central Hospital 1,"Main Road, Meghalaya Central, Meghalaya",Meghalaya,Meghalaya Central,Block C,113014,District Hospital,Government,GEN-00376,26.057898,84.370642
+Government Meghalaya Central Hospital 2,"Main Road, Meghalaya Central, Meghalaya",Meghalaya,Meghalaya Central,Block B,743621,Sub District Hospital,Government,GEN-00377,15.978918,81.951506
+Government Meghalaya Central Hospital 3,"Main Road, Meghalaya Central, Meghalaya",Meghalaya,Meghalaya Central,Block B,637936,Community Health Centre,Government,GEN-00378,14.256057,72.665656
+Government Meghalaya Central Hospital 4,"Main Road, Meghalaya Central, Meghalaya",Meghalaya,Meghalaya Central,Block C,412534,Primary Health Centre,Government,GEN-00379,27.134304,95.283091
+Government Meghalaya Central Hospital 5,"Main Road, Meghalaya Central, Meghalaya",Meghalaya,Meghalaya Central,Block C,644885,Medical College Hospital,Government,GEN-00380,12.276728,79.795794
+Government Meghalaya North Hospital 1,"Main Road, Meghalaya North, Meghalaya",Meghalaya,Meghalaya North,Block B,634235,District Hospital,Government,GEN-00381,13.087279,84.025077
+Government Meghalaya North Hospital 2,"Main Road, Meghalaya North, Meghalaya",Meghalaya,Meghalaya North,Block B,454385,Sub District Hospital,Government,GEN-00382,11.54085,91.172819
+Government Meghalaya North Hospital 3,"Main Road, Meghalaya North, Meghalaya",Meghalaya,Meghalaya North,Block C,489770,Community Health Centre,Government,GEN-00383,34.764292,96.41927
+Government Meghalaya North Hospital 4,"Main Road, Meghalaya North, Meghalaya",Meghalaya,Meghalaya North,Block A,609681,Primary Health Centre,Government,GEN-00384,8.383336,84.091194
+Government Meghalaya North Hospital 5,"Main Road, Meghalaya North, Meghalaya",Meghalaya,Meghalaya North,Block A,641871,Medical College Hospital,Government,GEN-00385,26.790655,75.649208
+Government Meghalaya South Hospital 1,"Main Road, Meghalaya South, Meghalaya",Meghalaya,Meghalaya South,Block A,655002,District Hospital,Government,GEN-00386,36.599857,95.450356
+Government Meghalaya South Hospital 2,"Main Road, Meghalaya South, Meghalaya",Meghalaya,Meghalaya South,Block B,323272,Sub District Hospital,Government,GEN-00387,17.301745,76.460232
+Government Meghalaya South Hospital 3,"Main Road, Meghalaya South, Meghalaya",Meghalaya,Meghalaya South,Block B,511366,Community Health Centre,Government,GEN-00388,25.423621,89.829078
+Government Meghalaya South Hospital 4,"Main Road, Meghalaya South, Meghalaya",Meghalaya,Meghalaya South,Block A,458213,Primary Health Centre,Government,GEN-00389,12.081202,86.002687
+Government Meghalaya South Hospital 5,"Main Road, Meghalaya South, Meghalaya",Meghalaya,Meghalaya South,Block A,416456,Medical College Hospital,Government,GEN-00390,22.04633,75.704346
+Government Meghalaya East Hospital 1,"Main Road, Meghalaya East, Meghalaya",Meghalaya,Meghalaya East,Block A,501001,District Hospital,Government,GEN-00391,28.826967,81.372247
+Government Meghalaya East Hospital 2,"Main Road, Meghalaya East, Meghalaya",Meghalaya,Meghalaya East,Block A,692530,Sub District Hospital,Government,GEN-00392,31.725825,80.7706
+Government Meghalaya East Hospital 3,"Main Road, Meghalaya East, Meghalaya",Meghalaya,Meghalaya East,Block A,424964,Community Health Centre,Government,GEN-00393,9.854497,74.140319
+Government Meghalaya East Hospital 4,"Main Road, Meghalaya East, Meghalaya",Meghalaya,Meghalaya East,Block C,651911,Primary Health Centre,Government,GEN-00394,20.26363,72.195398
+Government Meghalaya East Hospital 5,"Main Road, Meghalaya East, Meghalaya",Meghalaya,Meghalaya East,Block B,139138,Medical College Hospital,Government,GEN-00395,28.374181,83.989312
+Government Meghalaya West Hospital 1,"Main Road, Meghalaya West, Meghalaya",Meghalaya,Meghalaya West,Block B,709175,District Hospital,Government,GEN-00396,27.53018,91.277067
+Government Meghalaya West Hospital 2,"Main Road, Meghalaya West, Meghalaya",Meghalaya,Meghalaya West,Block B,666025,Sub District Hospital,Government,GEN-00397,9.385632,91.2786
+Government Meghalaya West Hospital 3,"Main Road, Meghalaya West, Meghalaya",Meghalaya,Meghalaya West,Block C,832490,Community Health Centre,Government,GEN-00398,35.388264,77.08644
+Government Meghalaya West Hospital 4,"Main Road, Meghalaya West, Meghalaya",Meghalaya,Meghalaya West,Block A,462060,Primary Health Centre,Government,GEN-00399,14.657707,78.996011
+Government Meghalaya West Hospital 5,"Main Road, Meghalaya West, Meghalaya",Meghalaya,Meghalaya West,Block C,564401,Medical College Hospital,Government,GEN-00400,8.431458,78.062769
+Government Mizoram Central Hospital 1,"Main Road, Mizoram Central, Mizoram",Mizoram,Mizoram Central,Block C,486942,District Hospital,Government,GEN-00401,28.296362,84.811746
+Government Mizoram Central Hospital 2,"Main Road, Mizoram Central, Mizoram",Mizoram,Mizoram Central,Block B,322596,Sub District Hospital,Government,GEN-00402,33.215336,88.440002
+Government Mizoram Central Hospital 3,"Main Road, Mizoram Central, Mizoram",Mizoram,Mizoram Central,Block B,655392,Community Health Centre,Government,GEN-00403,30.582891,92.454117
+Government Mizoram Central Hospital 4,"Main Road, Mizoram Central, Mizoram",Mizoram,Mizoram Central,Block A,443349,Primary Health Centre,Government,GEN-00404,14.180657,86.083164
+Government Mizoram Central Hospital 5,"Main Road, Mizoram Central, Mizoram",Mizoram,Mizoram Central,Block A,372741,Medical College Hospital,Government,GEN-00405,17.555845,95.659045
+Government Mizoram North Hospital 1,"Main Road, Mizoram North, Mizoram",Mizoram,Mizoram North,Block C,415556,District Hospital,Government,GEN-00406,23.185195,95.421344
+Government Mizoram North Hospital 2,"Main Road, Mizoram North, Mizoram",Mizoram,Mizoram North,Block B,804451,Sub District Hospital,Government,GEN-00407,17.719837,96.426709
+Government Mizoram North Hospital 3,"Main Road, Mizoram North, Mizoram",Mizoram,Mizoram North,Block C,142086,Community Health Centre,Government,GEN-00408,12.147222,79.241924
+Government Mizoram North Hospital 4,"Main Road, Mizoram North, Mizoram",Mizoram,Mizoram North,Block A,688564,Primary Health Centre,Government,GEN-00409,22.662323,78.003918
+Government Mizoram North Hospital 5,"Main Road, Mizoram North, Mizoram",Mizoram,Mizoram North,Block C,738144,Medical College Hospital,Government,GEN-00410,23.129249,78.614972
+Government Mizoram South Hospital 1,"Main Road, Mizoram South, Mizoram",Mizoram,Mizoram South,Block B,678485,District Hospital,Government,GEN-00411,33.944385,91.197453
+Government Mizoram South Hospital 2,"Main Road, Mizoram South, Mizoram",Mizoram,Mizoram South,Block C,178295,Sub District Hospital,Government,GEN-00412,11.755689,82.290842
+Government Mizoram South Hospital 3,"Main Road, Mizoram South, Mizoram",Mizoram,Mizoram South,Block A,769031,Community Health Centre,Government,GEN-00413,31.73488,90.994245
+Government Mizoram South Hospital 4,"Main Road, Mizoram South, Mizoram",Mizoram,Mizoram South,Block A,437970,Primary Health Centre,Government,GEN-00414,34.365707,77.415338
+Government Mizoram South Hospital 5,"Main Road, Mizoram South, Mizoram",Mizoram,Mizoram South,Block C,181997,Medical College Hospital,Government,GEN-00415,33.919728,82.346507
+Government Mizoram East Hospital 1,"Main Road, Mizoram East, Mizoram",Mizoram,Mizoram East,Block B,634124,District Hospital,Government,GEN-00416,29.75807,75.519601
+Government Mizoram East Hospital 2,"Main Road, Mizoram East, Mizoram",Mizoram,Mizoram East,Block A,566558,Sub District Hospital,Government,GEN-00417,19.069671,68.501185
+Government Mizoram East Hospital 3,"Main Road, Mizoram East, Mizoram",Mizoram,Mizoram East,Block C,786352,Community Health Centre,Government,GEN-00418,28.528283,89.554588
+Government Mizoram East Hospital 4,"Main Road, Mizoram East, Mizoram",Mizoram,Mizoram East,Block A,778154,Primary Health Centre,Government,GEN-00419,31.004526,71.118193
+Government Mizoram East Hospital 5,"Main Road, Mizoram East, Mizoram",Mizoram,Mizoram East,Block C,734210,Medical College Hospital,Government,GEN-00420,31.556663,79.759524
+Government Mizoram West Hospital 1,"Main Road, Mizoram West, Mizoram",Mizoram,Mizoram West,Block B,761774,District Hospital,Government,GEN-00421,9.64089,88.806315
+Government Mizoram West Hospital 2,"Main Road, Mizoram West, Mizoram",Mizoram,Mizoram West,Block C,185516,Sub District Hospital,Government,GEN-00422,32.757426,80.356906
+Government Mizoram West Hospital 3,"Main Road, Mizoram West, Mizoram",Mizoram,Mizoram West,Block A,191545,Community Health Centre,Government,GEN-00423,37.387259,91.831273
+Government Mizoram West Hospital 4,"Main Road, Mizoram West, Mizoram",Mizoram,Mizoram West,Block B,275907,Primary Health Centre,Government,GEN-00424,9.164471,73.822338
+Government Mizoram West Hospital 5,"Main Road, Mizoram West, Mizoram",Mizoram,Mizoram West,Block B,654522,Medical College Hospital,Government,GEN-00425,22.951871,80.214527
+Government Nagaland Central Hospital 1,"Main Road, Nagaland Central, Nagaland",Nagaland,Nagaland Central,Block A,804220,District Hospital,Government,GEN-00426,21.365717,70.883927
+Government Nagaland Central Hospital 2,"Main Road, Nagaland Central, Nagaland",Nagaland,Nagaland Central,Block A,187237,Sub District Hospital,Government,GEN-00427,30.093208,92.481595
+Government Nagaland Central Hospital 3,"Main Road, Nagaland Central, Nagaland",Nagaland,Nagaland Central,Block B,648098,Community Health Centre,Government,GEN-00428,36.876727,82.042841
+Government Nagaland Central Hospital 4,"Main Road, Nagaland Central, Nagaland",Nagaland,Nagaland Central,Block C,619709,Primary Health Centre,Government,GEN-00429,37.498624,76.536119
+Government Nagaland Central Hospital 5,"Main Road, Nagaland Central, Nagaland",Nagaland,Nagaland Central,Block C,713739,Medical College Hospital,Government,GEN-00430,32.130573,93.258747
+Government Nagaland North Hospital 1,"Main Road, Nagaland North, Nagaland",Nagaland,Nagaland North,Block B,536536,District Hospital,Government,GEN-00431,14.828318,94.789748
+Government Nagaland North Hospital 2,"Main Road, Nagaland North, Nagaland",Nagaland,Nagaland North,Block B,610370,Sub District Hospital,Government,GEN-00432,27.80179,82.107977
+Government Nagaland North Hospital 3,"Main Road, Nagaland North, Nagaland",Nagaland,Nagaland North,Block B,127421,Community Health Centre,Government,GEN-00433,32.085306,89.379828
+Government Nagaland North Hospital 4,"Main Road, Nagaland North, Nagaland",Nagaland,Nagaland North,Block C,839021,Primary Health Centre,Government,GEN-00434,33.119657,79.555996
+Government Nagaland North Hospital 5,"Main Road, Nagaland North, Nagaland",Nagaland,Nagaland North,Block B,406033,Medical College Hospital,Government,GEN-00435,17.330264,77.016926
+Government Nagaland South Hospital 1,"Main Road, Nagaland South, Nagaland",Nagaland,Nagaland South,Block A,815299,District Hospital,Government,GEN-00436,17.895823,93.957332
+Government Nagaland South Hospital 2,"Main Road, Nagaland South, Nagaland",Nagaland,Nagaland South,Block C,504402,Sub District Hospital,Government,GEN-00437,16.587371,89.29058
+Government Nagaland South Hospital 3,"Main Road, Nagaland South, Nagaland",Nagaland,Nagaland South,Block C,779118,Community Health Centre,Government,GEN-00438,32.731544,80.416465
+Government Nagaland South Hospital 4,"Main Road, Nagaland South, Nagaland",Nagaland,Nagaland South,Block A,285857,Primary Health Centre,Government,GEN-00439,36.094132,89.742138
+Government Nagaland South Hospital 5,"Main Road, Nagaland South, Nagaland",Nagaland,Nagaland South,Block B,508614,Medical College Hospital,Government,GEN-00440,19.729029,80.56504
+Government Nagaland East Hospital 1,"Main Road, Nagaland East, Nagaland",Nagaland,Nagaland East,Block B,788469,District Hospital,Government,GEN-00441,8.279633,69.767313
+Government Nagaland East Hospital 2,"Main Road, Nagaland East, Nagaland",Nagaland,Nagaland East,Block C,190813,Sub District Hospital,Government,GEN-00442,12.112386,70.395353
+Government Nagaland East Hospital 3,"Main Road, Nagaland East, Nagaland",Nagaland,Nagaland East,Block C,321951,Community Health Centre,Government,GEN-00443,8.42952,93.264955
+Government Nagaland East Hospital 4,"Main Road, Nagaland East, Nagaland",Nagaland,Nagaland East,Block A,450166,Primary Health Centre,Government,GEN-00444,11.288242,73.908415
+Government Nagaland East Hospital 5,"Main Road, Nagaland East, Nagaland",Nagaland,Nagaland East,Block A,361972,Medical College Hospital,Government,GEN-00445,33.138868,95.175834
+Government Nagaland West Hospital 1,"Main Road, Nagaland West, Nagaland",Nagaland,Nagaland West,Block B,474152,District Hospital,Government,GEN-00446,37.30697,92.623623
+Government Nagaland West Hospital 2,"Main Road, Nagaland West, Nagaland",Nagaland,Nagaland West,Block A,670293,Sub District Hospital,Government,GEN-00447,23.511298,77.851321
+Government Nagaland West Hospital 3,"Main Road, Nagaland West, Nagaland",Nagaland,Nagaland West,Block C,470800,Community Health Centre,Government,GEN-00448,32.010367,92.630721
+Government Nagaland West Hospital 4,"Main Road, Nagaland West, Nagaland",Nagaland,Nagaland West,Block C,553433,Primary Health Centre,Government,GEN-00449,12.692007,78.989015
+Government Nagaland West Hospital 5,"Main Road, Nagaland West, Nagaland",Nagaland,Nagaland West,Block B,843356,Medical College Hospital,Government,GEN-00450,24.756078,74.783747
+Government Odisha Central Hospital 1,"Main Road, Odisha Central, Odisha",Odisha,Odisha Central,Block A,681562,District Hospital,Government,GEN-00451,17.968527,73.239657
+Government Odisha Central Hospital 2,"Main Road, Odisha Central, Odisha",Odisha,Odisha Central,Block C,616467,Sub District Hospital,Government,GEN-00452,9.203341,74.798042
+Government Odisha Central Hospital 3,"Main Road, Odisha Central, Odisha",Odisha,Odisha Central,Block A,124907,Community Health Centre,Government,GEN-00453,12.586682,85.531385
+Government Odisha Central Hospital 4,"Main Road, Odisha Central, Odisha",Odisha,Odisha Central,Block B,340717,Primary Health Centre,Government,GEN-00454,21.680404,82.639941
+Government Odisha Central Hospital 5,"Main Road, Odisha Central, Odisha",Odisha,Odisha Central,Block A,222622,Medical College Hospital,Government,GEN-00455,17.410185,78.656036
+Government Odisha North Hospital 1,"Main Road, Odisha North, Odisha",Odisha,Odisha North,Block C,477893,District Hospital,Government,GEN-00456,15.729751,69.93058
+Government Odisha North Hospital 2,"Main Road, Odisha North, Odisha",Odisha,Odisha North,Block C,157602,Sub District Hospital,Government,GEN-00457,29.861894,91.700967
+Government Odisha North Hospital 3,"Main Road, Odisha North, Odisha",Odisha,Odisha North,Block C,124715,Community Health Centre,Government,GEN-00458,17.318676,82.296916
+Government Odisha North Hospital 4,"Main Road, Odisha North, Odisha",Odisha,Odisha North,Block B,584440,Primary Health Centre,Government,GEN-00459,16.517945,79.060377
+Government Odisha North Hospital 5,"Main Road, Odisha North, Odisha",Odisha,Odisha North,Block C,397788,Medical College Hospital,Government,GEN-00460,10.482872,75.200447
+Government Odisha South Hospital 1,"Main Road, Odisha South, Odisha",Odisha,Odisha South,Block B,175335,District Hospital,Government,GEN-00461,25.341923,86.769382
+Government Odisha South Hospital 2,"Main Road, Odisha South, Odisha",Odisha,Odisha South,Block A,364244,Sub District Hospital,Government,GEN-00462,25.868803,91.435573
+Government Odisha South Hospital 3,"Main Road, Odisha South, Odisha",Odisha,Odisha South,Block C,140191,Community Health Centre,Government,GEN-00463,33.31518,75.411779
+Government Odisha South Hospital 4,"Main Road, Odisha South, Odisha",Odisha,Odisha South,Block A,470092,Primary Health Centre,Government,GEN-00464,37.298654,95.142825
+Government Odisha South Hospital 5,"Main Road, Odisha South, Odisha",Odisha,Odisha South,Block C,406638,Medical College Hospital,Government,GEN-00465,21.002757,72.200448
+Government Odisha East Hospital 1,"Main Road, Odisha East, Odisha",Odisha,Odisha East,Block B,194830,District Hospital,Government,GEN-00466,20.585402,74.066229
+Government Odisha East Hospital 2,"Main Road, Odisha East, Odisha",Odisha,Odisha East,Block A,504376,Sub District Hospital,Government,GEN-00467,31.143121,91.036408
+Government Odisha East Hospital 3,"Main Road, Odisha East, Odisha",Odisha,Odisha East,Block C,521671,Community Health Centre,Government,GEN-00468,13.940409,84.77061
+Government Odisha East Hospital 4,"Main Road, Odisha East, Odisha",Odisha,Odisha East,Block C,300314,Primary Health Centre,Government,GEN-00469,23.953281,77.718483
+Government Odisha East Hospital 5,"Main Road, Odisha East, Odisha",Odisha,Odisha East,Block A,235208,Medical College Hospital,Government,GEN-00470,36.130875,79.948166
+Government Odisha West Hospital 1,"Main Road, Odisha West, Odisha",Odisha,Odisha West,Block C,475664,District Hospital,Government,GEN-00471,31.934059,91.958193
+Government Odisha West Hospital 2,"Main Road, Odisha West, Odisha",Odisha,Odisha West,Block A,203882,Sub District Hospital,Government,GEN-00472,31.929955,70.130984
+Government Odisha West Hospital 3,"Main Road, Odisha West, Odisha",Odisha,Odisha West,Block B,690984,Community Health Centre,Government,GEN-00473,28.462311,70.836181
+Government Odisha West Hospital 4,"Main Road, Odisha West, Odisha",Odisha,Odisha West,Block A,325729,Primary Health Centre,Government,GEN-00474,13.244892,88.532809
+Government Odisha West Hospital 5,"Main Road, Odisha West, Odisha",Odisha,Odisha West,Block B,427017,Medical College Hospital,Government,GEN-00475,12.448166,96.788116
+Government Punjab Central Hospital 1,"Main Road, Punjab Central, Punjab",Punjab,Punjab Central,Block A,115121,District Hospital,Government,GEN-00476,35.56346,93.865415
+Government Punjab Central Hospital 2,"Main Road, Punjab Central, Punjab",Punjab,Punjab Central,Block A,718694,Sub District Hospital,Government,GEN-00477,21.961708,78.967031
+Government Punjab Central Hospital 3,"Main Road, Punjab Central, Punjab",Punjab,Punjab Central,Block B,258625,Community Health Centre,Government,GEN-00478,21.664299,74.174728
+Government Punjab Central Hospital 4,"Main Road, Punjab Central, Punjab",Punjab,Punjab Central,Block B,631388,Primary Health Centre,Government,GEN-00479,37.486296,81.466921
+Government Punjab Central Hospital 5,"Main Road, Punjab Central, Punjab",Punjab,Punjab Central,Block A,297220,Medical College Hospital,Government,GEN-00480,11.320326,91.620901
+Government Punjab North Hospital 1,"Main Road, Punjab North, Punjab",Punjab,Punjab North,Block A,337367,District Hospital,Government,GEN-00481,24.045048,77.378247
+Government Punjab North Hospital 2,"Main Road, Punjab North, Punjab",Punjab,Punjab North,Block A,410468,Sub District Hospital,Government,GEN-00482,15.617656,76.489271
+Government Punjab North Hospital 3,"Main Road, Punjab North, Punjab",Punjab,Punjab North,Block C,368414,Community Health Centre,Government,GEN-00483,12.996927,84.287533
+Government Punjab North Hospital 4,"Main Road, Punjab North, Punjab",Punjab,Punjab North,Block B,205857,Primary Health Centre,Government,GEN-00484,29.756521,70.821047
+Government Punjab North Hospital 5,"Main Road, Punjab North, Punjab",Punjab,Punjab North,Block C,583286,Medical College Hospital,Government,GEN-00485,36.387939,73.834563
+Government Punjab South Hospital 1,"Main Road, Punjab South, Punjab",Punjab,Punjab South,Block B,185641,District Hospital,Government,GEN-00486,11.37444,70.63502
+Government Punjab South Hospital 2,"Main Road, Punjab South, Punjab",Punjab,Punjab South,Block B,578314,Sub District Hospital,Government,GEN-00487,28.589285,75.902134
+Government Punjab South Hospital 3,"Main Road, Punjab South, Punjab",Punjab,Punjab South,Block C,306421,Community Health Centre,Government,GEN-00488,25.094617,71.027535
+Government Punjab South Hospital 4,"Main Road, Punjab South, Punjab",Punjab,Punjab South,Block A,324534,Primary Health Centre,Government,GEN-00489,36.311525,71.949149
+Government Punjab South Hospital 5,"Main Road, Punjab South, Punjab",Punjab,Punjab South,Block A,507773,Medical College Hospital,Government,GEN-00490,22.593553,90.333047
+Government Punjab East Hospital 1,"Main Road, Punjab East, Punjab",Punjab,Punjab East,Block A,143758,District Hospital,Government,GEN-00491,36.767931,85.821693
+Government Punjab East Hospital 2,"Main Road, Punjab East, Punjab",Punjab,Punjab East,Block C,359536,Sub District Hospital,Government,GEN-00492,34.231508,68.720843
+Government Punjab East Hospital 3,"Main Road, Punjab East, Punjab",Punjab,Punjab East,Block C,658912,Community Health Centre,Government,GEN-00493,18.999053,68.637008
+Government Punjab East Hospital 4,"Main Road, Punjab East, Punjab",Punjab,Punjab East,Block C,123809,Primary Health Centre,Government,GEN-00494,17.02603,81.215672
+Government Punjab East Hospital 5,"Main Road, Punjab East, Punjab",Punjab,Punjab East,Block A,284468,Medical College Hospital,Government,GEN-00495,15.106165,84.269003
+Government Punjab West Hospital 1,"Main Road, Punjab West, Punjab",Punjab,Punjab West,Block A,260522,District Hospital,Government,GEN-00496,17.857968,74.338678
+Government Punjab West Hospital 2,"Main Road, Punjab West, Punjab",Punjab,Punjab West,Block C,808500,Sub District Hospital,Government,GEN-00497,20.978492,94.982145
+Government Punjab West Hospital 3,"Main Road, Punjab West, Punjab",Punjab,Punjab West,Block A,804693,Community Health Centre,Government,GEN-00498,12.554551,89.338542
+Government Punjab West Hospital 4,"Main Road, Punjab West, Punjab",Punjab,Punjab West,Block C,411200,Primary Health Centre,Government,GEN-00499,17.984116,84.335022
+Government Punjab West Hospital 5,"Main Road, Punjab West, Punjab",Punjab,Punjab West,Block A,498951,Medical College Hospital,Government,GEN-00500,32.919972,73.722824
+Government Rajasthan Central Hospital 1,"Main Road, Rajasthan Central, Rajasthan",Rajasthan,Rajasthan Central,Block C,429384,District Hospital,Government,GEN-00501,12.354371,81.161759
+Government Rajasthan Central Hospital 2,"Main Road, Rajasthan Central, Rajasthan",Rajasthan,Rajasthan Central,Block B,191019,Sub District Hospital,Government,GEN-00502,27.694631,74.580777
+Government Rajasthan Central Hospital 3,"Main Road, Rajasthan Central, Rajasthan",Rajasthan,Rajasthan Central,Block B,348684,Community Health Centre,Government,GEN-00503,18.480406,92.647575
+Government Rajasthan Central Hospital 4,"Main Road, Rajasthan Central, Rajasthan",Rajasthan,Rajasthan Central,Block B,786465,Primary Health Centre,Government,GEN-00504,26.147354,90.908839
+Government Rajasthan Central Hospital 5,"Main Road, Rajasthan Central, Rajasthan",Rajasthan,Rajasthan Central,Block A,681043,Medical College Hospital,Government,GEN-00505,32.20603,73.355595
+Government Rajasthan North Hospital 1,"Main Road, Rajasthan North, Rajasthan",Rajasthan,Rajasthan North,Block A,765572,District Hospital,Government,GEN-00506,28.097735,79.466801
+Government Rajasthan North Hospital 2,"Main Road, Rajasthan North, Rajasthan",Rajasthan,Rajasthan North,Block B,396702,Sub District Hospital,Government,GEN-00507,29.338859,89.242932
+Government Rajasthan North Hospital 3,"Main Road, Rajasthan North, Rajasthan",Rajasthan,Rajasthan North,Block A,154301,Community Health Centre,Government,GEN-00508,34.46902,88.562205
+Government Rajasthan North Hospital 4,"Main Road, Rajasthan North, Rajasthan",Rajasthan,Rajasthan North,Block C,275301,Primary Health Centre,Government,GEN-00509,12.855562,71.877398
+Government Rajasthan North Hospital 5,"Main Road, Rajasthan North, Rajasthan",Rajasthan,Rajasthan North,Block C,698706,Medical College Hospital,Government,GEN-00510,27.278731,89.210259
+Government Rajasthan South Hospital 1,"Main Road, Rajasthan South, Rajasthan",Rajasthan,Rajasthan South,Block C,212993,District Hospital,Government,GEN-00511,25.994131,93.658945
+Government Rajasthan South Hospital 2,"Main Road, Rajasthan South, Rajasthan",Rajasthan,Rajasthan South,Block A,205745,Sub District Hospital,Government,GEN-00512,30.672408,90.688606
+Government Rajasthan South Hospital 3,"Main Road, Rajasthan South, Rajasthan",Rajasthan,Rajasthan South,Block C,132276,Community Health Centre,Government,GEN-00513,18.517091,74.809794
+Government Rajasthan South Hospital 4,"Main Road, Rajasthan South, Rajasthan",Rajasthan,Rajasthan South,Block A,724973,Primary Health Centre,Government,GEN-00514,8.205548,92.294013
+Government Rajasthan South Hospital 5,"Main Road, Rajasthan South, Rajasthan",Rajasthan,Rajasthan South,Block A,466720,Medical College Hospital,Government,GEN-00515,26.432066,91.497159
+Government Rajasthan East Hospital 1,"Main Road, Rajasthan East, Rajasthan",Rajasthan,Rajasthan East,Block A,196423,District Hospital,Government,GEN-00516,34.347432,85.082174
+Government Rajasthan East Hospital 2,"Main Road, Rajasthan East, Rajasthan",Rajasthan,Rajasthan East,Block B,225684,Sub District Hospital,Government,GEN-00517,10.902604,86.247754
+Government Rajasthan East Hospital 3,"Main Road, Rajasthan East, Rajasthan",Rajasthan,Rajasthan East,Block C,765884,Community Health Centre,Government,GEN-00518,21.124624,78.703156
+Government Rajasthan East Hospital 4,"Main Road, Rajasthan East, Rajasthan",Rajasthan,Rajasthan East,Block B,418092,Primary Health Centre,Government,GEN-00519,16.690887,85.407898
+Government Rajasthan East Hospital 5,"Main Road, Rajasthan East, Rajasthan",Rajasthan,Rajasthan East,Block C,249191,Medical College Hospital,Government,GEN-00520,32.029159,92.030662
+Government Rajasthan West Hospital 1,"Main Road, Rajasthan West, Rajasthan",Rajasthan,Rajasthan West,Block B,263285,District Hospital,Government,GEN-00521,36.276627,83.590035
+Government Rajasthan West Hospital 2,"Main Road, Rajasthan West, Rajasthan",Rajasthan,Rajasthan West,Block C,222013,Sub District Hospital,Government,GEN-00522,34.381087,86.299838
+Government Rajasthan West Hospital 3,"Main Road, Rajasthan West, Rajasthan",Rajasthan,Rajasthan West,Block A,761063,Community Health Centre,Government,GEN-00523,9.449357,88.662634
+Government Rajasthan West Hospital 4,"Main Road, Rajasthan West, Rajasthan",Rajasthan,Rajasthan West,Block C,130362,Primary Health Centre,Government,GEN-00524,11.429257,86.648956
+Government Rajasthan West Hospital 5,"Main Road, Rajasthan West, Rajasthan",Rajasthan,Rajasthan West,Block C,437369,Medical College Hospital,Government,GEN-00525,34.623257,75.934181
+Government Sikkim Central Hospital 1,"Main Road, Sikkim Central, Sikkim",Sikkim,Sikkim Central,Block A,450247,District Hospital,Government,GEN-00526,30.999351,90.183806
+Government Sikkim Central Hospital 2,"Main Road, Sikkim Central, Sikkim",Sikkim,Sikkim Central,Block C,239213,Sub District Hospital,Government,GEN-00527,33.530731,83.504138
+Government Sikkim Central Hospital 3,"Main Road, Sikkim Central, Sikkim",Sikkim,Sikkim Central,Block B,506335,Community Health Centre,Government,GEN-00528,22.520409,69.357731
+Government Sikkim Central Hospital 4,"Main Road, Sikkim Central, Sikkim",Sikkim,Sikkim Central,Block A,377938,Primary Health Centre,Government,GEN-00529,12.184749,79.468566
+Government Sikkim Central Hospital 5,"Main Road, Sikkim Central, Sikkim",Sikkim,Sikkim Central,Block A,594473,Medical College Hospital,Government,GEN-00530,23.950851,72.564612
+Government Sikkim North Hospital 1,"Main Road, Sikkim North, Sikkim",Sikkim,Sikkim North,Block A,255115,District Hospital,Government,GEN-00531,20.715283,86.599912
+Government Sikkim North Hospital 2,"Main Road, Sikkim North, Sikkim",Sikkim,Sikkim North,Block A,116473,Sub District Hospital,Government,GEN-00532,26.809446,95.739501
+Government Sikkim North Hospital 3,"Main Road, Sikkim North, Sikkim",Sikkim,Sikkim North,Block B,355562,Community Health Centre,Government,GEN-00533,19.500882,84.535075
+Government Sikkim North Hospital 4,"Main Road, Sikkim North, Sikkim",Sikkim,Sikkim North,Block A,286213,Primary Health Centre,Government,GEN-00534,26.018479,76.537685
+Government Sikkim North Hospital 5,"Main Road, Sikkim North, Sikkim",Sikkim,Sikkim North,Block B,120155,Medical College Hospital,Government,GEN-00535,13.086522,95.507929
+Government Sikkim South Hospital 1,"Main Road, Sikkim South, Sikkim",Sikkim,Sikkim South,Block A,358024,District Hospital,Government,GEN-00536,33.682184,81.160428
+Government Sikkim South Hospital 2,"Main Road, Sikkim South, Sikkim",Sikkim,Sikkim South,Block A,117036,Sub District Hospital,Government,GEN-00537,23.723958,75.521158
+Government Sikkim South Hospital 3,"Main Road, Sikkim South, Sikkim",Sikkim,Sikkim South,Block B,631259,Community Health Centre,Government,GEN-00538,11.020134,69.026826
+Government Sikkim South Hospital 4,"Main Road, Sikkim South, Sikkim",Sikkim,Sikkim South,Block C,430614,Primary Health Centre,Government,GEN-00539,26.108074,70.968261
+Government Sikkim South Hospital 5,"Main Road, Sikkim South, Sikkim",Sikkim,Sikkim South,Block A,313541,Medical College Hospital,Government,GEN-00540,32.260719,78.497057
+Government Sikkim East Hospital 1,"Main Road, Sikkim East, Sikkim",Sikkim,Sikkim East,Block C,394569,District Hospital,Government,GEN-00541,28.000686,92.249572
+Government Sikkim East Hospital 2,"Main Road, Sikkim East, Sikkim",Sikkim,Sikkim East,Block C,152713,Sub District Hospital,Government,GEN-00542,24.196861,79.023295
+Government Sikkim East Hospital 3,"Main Road, Sikkim East, Sikkim",Sikkim,Sikkim East,Block A,588252,Community Health Centre,Government,GEN-00543,8.889404,83.904905
+Government Sikkim East Hospital 4,"Main Road, Sikkim East, Sikkim",Sikkim,Sikkim East,Block A,519253,Primary Health Centre,Government,GEN-00544,35.063672,78.781958
+Government Sikkim East Hospital 5,"Main Road, Sikkim East, Sikkim",Sikkim,Sikkim East,Block C,353883,Medical College Hospital,Government,GEN-00545,8.670368,86.691517
+Government Sikkim West Hospital 1,"Main Road, Sikkim West, Sikkim",Sikkim,Sikkim West,Block C,111923,District Hospital,Government,GEN-00546,17.032345,87.333362
+Government Sikkim West Hospital 2,"Main Road, Sikkim West, Sikkim",Sikkim,Sikkim West,Block A,767892,Sub District Hospital,Government,GEN-00547,36.411696,78.254901
+Government Sikkim West Hospital 3,"Main Road, Sikkim West, Sikkim",Sikkim,Sikkim West,Block A,121715,Community Health Centre,Government,GEN-00548,22.53924,84.870585
+Government Sikkim West Hospital 4,"Main Road, Sikkim West, Sikkim",Sikkim,Sikkim West,Block C,676912,Primary Health Centre,Government,GEN-00549,19.432151,76.610106
+Government Sikkim West Hospital 5,"Main Road, Sikkim West, Sikkim",Sikkim,Sikkim West,Block B,757181,Medical College Hospital,Government,GEN-00550,31.174287,88.996338
+Government Tamil Central Hospital 1,"Main Road, Tamil Central, Tamil Nadu",Tamil Nadu,Tamil Central,Block B,402592,District Hospital,Government,GEN-00551,11.66537,88.484644
+Government Tamil Central Hospital 2,"Main Road, Tamil Central, Tamil Nadu",Tamil Nadu,Tamil Central,Block C,312036,Sub District Hospital,Government,GEN-00552,30.962406,84.922171
+Government Tamil Central Hospital 3,"Main Road, Tamil Central, Tamil Nadu",Tamil Nadu,Tamil Central,Block C,804149,Community Health Centre,Government,GEN-00553,36.896085,78.675697
+Government Tamil Central Hospital 4,"Main Road, Tamil Central, Tamil Nadu",Tamil Nadu,Tamil Central,Block B,407719,Primary Health Centre,Government,GEN-00554,21.877036,76.002388
+Government Tamil Central Hospital 5,"Main Road, Tamil Central, Tamil Nadu",Tamil Nadu,Tamil Central,Block B,586526,Medical College Hospital,Government,GEN-00555,37.121587,93.897553
+Government Tamil North Hospital 1,"Main Road, Tamil North, Tamil Nadu",Tamil Nadu,Tamil North,Block B,332124,District Hospital,Government,GEN-00556,30.308182,83.513989
+Government Tamil North Hospital 2,"Main Road, Tamil North, Tamil Nadu",Tamil Nadu,Tamil North,Block B,250861,Sub District Hospital,Government,GEN-00557,10.986929,77.156283
+Government Tamil North Hospital 3,"Main Road, Tamil North, Tamil Nadu",Tamil Nadu,Tamil North,Block B,183420,Community Health Centre,Government,GEN-00558,17.75369,69.768786
+Government Tamil North Hospital 4,"Main Road, Tamil North, Tamil Nadu",Tamil Nadu,Tamil North,Block B,304337,Primary Health Centre,Government,GEN-00559,21.233439,79.692583
+Government Tamil North Hospital 5,"Main Road, Tamil North, Tamil Nadu",Tamil Nadu,Tamil North,Block B,601871,Medical College Hospital,Government,GEN-00560,21.036355,69.048152
+Government Tamil South Hospital 1,"Main Road, Tamil South, Tamil Nadu",Tamil Nadu,Tamil South,Block A,612010,District Hospital,Government,GEN-00561,12.003696,94.411243
+Government Tamil South Hospital 2,"Main Road, Tamil South, Tamil Nadu",Tamil Nadu,Tamil South,Block B,634074,Sub District Hospital,Government,GEN-00562,25.64687,96.005323
+Government Tamil South Hospital 3,"Main Road, Tamil South, Tamil Nadu",Tamil Nadu,Tamil South,Block A,545493,Community Health Centre,Government,GEN-00563,9.279716,93.15127
+Government Tamil South Hospital 4,"Main Road, Tamil South, Tamil Nadu",Tamil Nadu,Tamil South,Block A,391591,Primary Health Centre,Government,GEN-00564,34.712263,93.438504
+Government Tamil South Hospital 5,"Main Road, Tamil South, Tamil Nadu",Tamil Nadu,Tamil South,Block B,204647,Medical College Hospital,Government,GEN-00565,33.980263,74.65875
+Government Tamil East Hospital 1,"Main Road, Tamil East, Tamil Nadu",Tamil Nadu,Tamil East,Block A,408354,District Hospital,Government,GEN-00566,33.359503,82.495045
+Government Tamil East Hospital 2,"Main Road, Tamil East, Tamil Nadu",Tamil Nadu,Tamil East,Block A,825376,Sub District Hospital,Government,GEN-00567,20.254208,82.570893
+Government Tamil East Hospital 3,"Main Road, Tamil East, Tamil Nadu",Tamil Nadu,Tamil East,Block B,615764,Community Health Centre,Government,GEN-00568,26.711423,85.731796
+Government Tamil East Hospital 4,"Main Road, Tamil East, Tamil Nadu",Tamil Nadu,Tamil East,Block C,561496,Primary Health Centre,Government,GEN-00569,25.814221,75.381301
+Government Tamil East Hospital 5,"Main Road, Tamil East, Tamil Nadu",Tamil Nadu,Tamil East,Block A,581788,Medical College Hospital,Government,GEN-00570,30.251705,92.447445
+Government Tamil West Hospital 1,"Main Road, Tamil West, Tamil Nadu",Tamil Nadu,Tamil West,Block B,634736,District Hospital,Government,GEN-00571,16.09567,80.368342
+Government Tamil West Hospital 2,"Main Road, Tamil West, Tamil Nadu",Tamil Nadu,Tamil West,Block A,151146,Sub District Hospital,Government,GEN-00572,19.97832,84.017732
+Government Tamil West Hospital 3,"Main Road, Tamil West, Tamil Nadu",Tamil Nadu,Tamil West,Block B,368644,Community Health Centre,Government,GEN-00573,12.335379,96.388541
+Government Tamil West Hospital 4,"Main Road, Tamil West, Tamil Nadu",Tamil Nadu,Tamil West,Block C,445627,Primary Health Centre,Government,GEN-00574,34.860486,87.789082
+Government Tamil West Hospital 5,"Main Road, Tamil West, Tamil Nadu",Tamil Nadu,Tamil West,Block B,795998,Medical College Hospital,Government,GEN-00575,28.318281,72.106988
+Government Telangana Central Hospital 1,"Main Road, Telangana Central, Telangana",Telangana,Telangana Central,Block A,707012,District Hospital,Government,GEN-00576,15.754121,83.139934
+Government Telangana Central Hospital 2,"Main Road, Telangana Central, Telangana",Telangana,Telangana Central,Block A,283111,Sub District Hospital,Government,GEN-00577,16.861041,90.614776
+Government Telangana Central Hospital 3,"Main Road, Telangana Central, Telangana",Telangana,Telangana Central,Block B,674202,Community Health Centre,Government,GEN-00578,31.208345,95.466458
+Government Telangana Central Hospital 4,"Main Road, Telangana Central, Telangana",Telangana,Telangana Central,Block A,470655,Primary Health Centre,Government,GEN-00579,15.989482,91.777905
+Government Telangana Central Hospital 5,"Main Road, Telangana Central, Telangana",Telangana,Telangana Central,Block B,704609,Medical College Hospital,Government,GEN-00580,24.086182,79.175288
+Government Telangana North Hospital 1,"Main Road, Telangana North, Telangana",Telangana,Telangana North,Block C,701242,District Hospital,Government,GEN-00581,9.761245,73.225717
+Government Telangana North Hospital 2,"Main Road, Telangana North, Telangana",Telangana,Telangana North,Block B,469772,Sub District Hospital,Government,GEN-00582,36.028251,96.229668
+Government Telangana North Hospital 3,"Main Road, Telangana North, Telangana",Telangana,Telangana North,Block B,729080,Community Health Centre,Government,GEN-00583,27.074736,82.089542
+Government Telangana North Hospital 4,"Main Road, Telangana North, Telangana",Telangana,Telangana North,Block B,370394,Primary Health Centre,Government,GEN-00584,16.244505,79.06251
+Government Telangana North Hospital 5,"Main Road, Telangana North, Telangana",Telangana,Telangana North,Block B,765051,Medical College Hospital,Government,GEN-00585,18.123128,73.711045
+Government Telangana South Hospital 1,"Main Road, Telangana South, Telangana",Telangana,Telangana South,Block B,559976,District Hospital,Government,GEN-00586,31.87568,95.813916
+Government Telangana South Hospital 2,"Main Road, Telangana South, Telangana",Telangana,Telangana South,Block A,566548,Sub District Hospital,Government,GEN-00587,34.521909,94.270257
+Government Telangana South Hospital 3,"Main Road, Telangana South, Telangana",Telangana,Telangana South,Block C,482115,Community Health Centre,Government,GEN-00588,24.298932,68.507238
+Government Telangana South Hospital 4,"Main Road, Telangana South, Telangana",Telangana,Telangana South,Block B,720550,Primary Health Centre,Government,GEN-00589,16.314072,79.493759
+Government Telangana South Hospital 5,"Main Road, Telangana South, Telangana",Telangana,Telangana South,Block B,209859,Medical College Hospital,Government,GEN-00590,35.359029,84.13958
+Government Telangana East Hospital 1,"Main Road, Telangana East, Telangana",Telangana,Telangana East,Block C,374037,District Hospital,Government,GEN-00591,22.266122,70.876
+Government Telangana East Hospital 2,"Main Road, Telangana East, Telangana",Telangana,Telangana East,Block A,409691,Sub District Hospital,Government,GEN-00592,27.755147,95.36811
+Government Telangana East Hospital 3,"Main Road, Telangana East, Telangana",Telangana,Telangana East,Block A,289900,Community Health Centre,Government,GEN-00593,32.72501,78.006468
+Government Telangana East Hospital 4,"Main Road, Telangana East, Telangana",Telangana,Telangana East,Block C,804054,Primary Health Centre,Government,GEN-00594,12.15599,71.94985
+Government Telangana East Hospital 5,"Main Road, Telangana East, Telangana",Telangana,Telangana East,Block B,825385,Medical College Hospital,Government,GEN-00595,22.385535,95.950301
+Government Telangana West Hospital 1,"Main Road, Telangana West, Telangana",Telangana,Telangana West,Block C,679637,District Hospital,Government,GEN-00596,28.692418,89.833139
+Government Telangana West Hospital 2,"Main Road, Telangana West, Telangana",Telangana,Telangana West,Block B,265409,Sub District Hospital,Government,GEN-00597,11.130927,92.140763
+Government Telangana West Hospital 3,"Main Road, Telangana West, Telangana",Telangana,Telangana West,Block C,157602,Community Health Centre,Government,GEN-00598,10.129982,96.389089
+Government Telangana West Hospital 4,"Main Road, Telangana West, Telangana",Telangana,Telangana West,Block C,552798,Primary Health Centre,Government,GEN-00599,32.040112,73.631337
+Government Telangana West Hospital 5,"Main Road, Telangana West, Telangana",Telangana,Telangana West,Block C,724130,Medical College Hospital,Government,GEN-00600,18.070671,90.530839
+Government Tripura Central Hospital 1,"Main Road, Tripura Central, Tripura",Tripura,Tripura Central,Block C,143105,District Hospital,Government,GEN-00601,17.555653,69.219917
+Government Tripura Central Hospital 2,"Main Road, Tripura Central, Tripura",Tripura,Tripura Central,Block A,658759,Sub District Hospital,Government,GEN-00602,11.406664,83.75627
+Government Tripura Central Hospital 3,"Main Road, Tripura Central, Tripura",Tripura,Tripura Central,Block C,803293,Community Health Centre,Government,GEN-00603,23.083153,94.591028
+Government Tripura Central Hospital 4,"Main Road, Tripura Central, Tripura",Tripura,Tripura Central,Block B,690346,Primary Health Centre,Government,GEN-00604,36.985957,90.477998
+Government Tripura Central Hospital 5,"Main Road, Tripura Central, Tripura",Tripura,Tripura Central,Block A,177381,Medical College Hospital,Government,GEN-00605,23.800989,95.788069
+Government Tripura North Hospital 1,"Main Road, Tripura North, Tripura",Tripura,Tripura North,Block C,534786,District Hospital,Government,GEN-00606,13.426124,73.51844
+Government Tripura North Hospital 2,"Main Road, Tripura North, Tripura",Tripura,Tripura North,Block C,809254,Sub District Hospital,Government,GEN-00607,21.454425,81.549168
+Government Tripura North Hospital 3,"Main Road, Tripura North, Tripura",Tripura,Tripura North,Block A,651324,Community Health Centre,Government,GEN-00608,9.144413,92.577189
+Government Tripura North Hospital 4,"Main Road, Tripura North, Tripura",Tripura,Tripura North,Block C,785581,Primary Health Centre,Government,GEN-00609,11.76638,73.531158
+Government Tripura North Hospital 5,"Main Road, Tripura North, Tripura",Tripura,Tripura North,Block A,156394,Medical College Hospital,Government,GEN-00610,22.560037,87.140149
+Government Tripura South Hospital 1,"Main Road, Tripura South, Tripura",Tripura,Tripura South,Block A,354589,District Hospital,Government,GEN-00611,33.481393,74.025078
+Government Tripura South Hospital 2,"Main Road, Tripura South, Tripura",Tripura,Tripura South,Block A,440271,Sub District Hospital,Government,GEN-00612,15.652376,84.697725
+Government Tripura South Hospital 3,"Main Road, Tripura South, Tripura",Tripura,Tripura South,Block C,831461,Community Health Centre,Government,GEN-00613,8.845175,74.723573
+Government Tripura South Hospital 4,"Main Road, Tripura South, Tripura",Tripura,Tripura South,Block C,470126,Primary Health Centre,Government,GEN-00614,28.365722,95.155251
+Government Tripura South Hospital 5,"Main Road, Tripura South, Tripura",Tripura,Tripura South,Block A,383535,Medical College Hospital,Government,GEN-00615,29.235425,68.326279
+Government Tripura East Hospital 1,"Main Road, Tripura East, Tripura",Tripura,Tripura East,Block A,259364,District Hospital,Government,GEN-00616,18.290126,83.693639
+Government Tripura East Hospital 2,"Main Road, Tripura East, Tripura",Tripura,Tripura East,Block C,849776,Sub District Hospital,Government,GEN-00617,19.293401,82.123195
+Government Tripura East Hospital 3,"Main Road, Tripura East, Tripura",Tripura,Tripura East,Block A,578286,Community Health Centre,Government,GEN-00618,22.573301,87.215339
+Government Tripura East Hospital 4,"Main Road, Tripura East, Tripura",Tripura,Tripura East,Block A,701154,Primary Health Centre,Government,GEN-00619,13.559471,85.312295
+Government Tripura East Hospital 5,"Main Road, Tripura East, Tripura",Tripura,Tripura East,Block C,812362,Medical College Hospital,Government,GEN-00620,13.158847,69.452959
+Government Tripura West Hospital 1,"Main Road, Tripura West, Tripura",Tripura,Tripura West,Block C,562924,District Hospital,Government,GEN-00621,29.69033,91.025001
+Government Tripura West Hospital 2,"Main Road, Tripura West, Tripura",Tripura,Tripura West,Block C,672045,Sub District Hospital,Government,GEN-00622,26.14959,75.889039
+Government Tripura West Hospital 3,"Main Road, Tripura West, Tripura",Tripura,Tripura West,Block B,355146,Community Health Centre,Government,GEN-00623,28.461712,89.130878
+Government Tripura West Hospital 4,"Main Road, Tripura West, Tripura",Tripura,Tripura West,Block B,665660,Primary Health Centre,Government,GEN-00624,23.573981,78.187193
+Government Tripura West Hospital 5,"Main Road, Tripura West, Tripura",Tripura,Tripura West,Block A,610107,Medical College Hospital,Government,GEN-00625,15.847752,73.188124
+Government Uttar Central Hospital 1,"Main Road, Uttar Central, Uttar Pradesh",Uttar Pradesh,Uttar Central,Block B,559537,District Hospital,Government,GEN-00626,9.340631,82.513572
+Government Uttar Central Hospital 2,"Main Road, Uttar Central, Uttar Pradesh",Uttar Pradesh,Uttar Central,Block A,266754,Sub District Hospital,Government,GEN-00627,34.790019,80.24555
+Government Uttar Central Hospital 3,"Main Road, Uttar Central, Uttar Pradesh",Uttar Pradesh,Uttar Central,Block C,454033,Community Health Centre,Government,GEN-00628,32.923224,89.756607
+Government Uttar Central Hospital 4,"Main Road, Uttar Central, Uttar Pradesh",Uttar Pradesh,Uttar Central,Block C,290298,Primary Health Centre,Government,GEN-00629,12.550642,88.541216
+Government Uttar Central Hospital 5,"Main Road, Uttar Central, Uttar Pradesh",Uttar Pradesh,Uttar Central,Block C,443920,Medical College Hospital,Government,GEN-00630,25.336196,73.017942
+Government Uttar North Hospital 1,"Main Road, Uttar North, Uttar Pradesh",Uttar Pradesh,Uttar North,Block C,525123,District Hospital,Government,GEN-00631,21.423172,75.959536
+Government Uttar North Hospital 2,"Main Road, Uttar North, Uttar Pradesh",Uttar Pradesh,Uttar North,Block A,521361,Sub District Hospital,Government,GEN-00632,26.826152,88.844807
+Government Uttar North Hospital 3,"Main Road, Uttar North, Uttar Pradesh",Uttar Pradesh,Uttar North,Block A,385633,Community Health Centre,Government,GEN-00633,11.355815,89.092234
+Government Uttar North Hospital 4,"Main Road, Uttar North, Uttar Pradesh",Uttar Pradesh,Uttar North,Block C,738688,Primary Health Centre,Government,GEN-00634,18.579328,93.522049
+Government Uttar North Hospital 5,"Main Road, Uttar North, Uttar Pradesh",Uttar Pradesh,Uttar North,Block A,726642,Medical College Hospital,Government,GEN-00635,27.965327,77.292805
+Government Uttar South Hospital 1,"Main Road, Uttar South, Uttar Pradesh",Uttar Pradesh,Uttar South,Block A,600123,District Hospital,Government,GEN-00636,35.020478,71.560518
+Government Uttar South Hospital 2,"Main Road, Uttar South, Uttar Pradesh",Uttar Pradesh,Uttar South,Block B,852922,Sub District Hospital,Government,GEN-00637,17.059259,68.46756
+Government Uttar South Hospital 3,"Main Road, Uttar South, Uttar Pradesh",Uttar Pradesh,Uttar South,Block C,425552,Community Health Centre,Government,GEN-00638,31.79307,73.857574
+Government Uttar South Hospital 4,"Main Road, Uttar South, Uttar Pradesh",Uttar Pradesh,Uttar South,Block C,116153,Primary Health Centre,Government,GEN-00639,17.183272,94.163811
+Government Uttar South Hospital 5,"Main Road, Uttar South, Uttar Pradesh",Uttar Pradesh,Uttar South,Block C,642803,Medical College Hospital,Government,GEN-00640,10.834536,72.679767
+Government Uttar East Hospital 1,"Main Road, Uttar East, Uttar Pradesh",Uttar Pradesh,Uttar East,Block A,297640,District Hospital,Government,GEN-00641,25.310171,96.913602
+Government Uttar East Hospital 2,"Main Road, Uttar East, Uttar Pradesh",Uttar Pradesh,Uttar East,Block C,501755,Sub District Hospital,Government,GEN-00642,20.232824,76.296519
+Government Uttar East Hospital 3,"Main Road, Uttar East, Uttar Pradesh",Uttar Pradesh,Uttar East,Block B,667684,Community Health Centre,Government,GEN-00643,17.468571,82.036013
+Government Uttar East Hospital 4,"Main Road, Uttar East, Uttar Pradesh",Uttar Pradesh,Uttar East,Block C,126294,Primary Health Centre,Government,GEN-00644,17.528975,73.490116
+Government Uttar East Hospital 5,"Main Road, Uttar East, Uttar Pradesh",Uttar Pradesh,Uttar East,Block B,196402,Medical College Hospital,Government,GEN-00645,16.154139,71.260689
+Government Uttar West Hospital 1,"Main Road, Uttar West, Uttar Pradesh",Uttar Pradesh,Uttar West,Block B,274614,District Hospital,Government,GEN-00646,11.878496,69.406296
+Government Uttar West Hospital 2,"Main Road, Uttar West, Uttar Pradesh",Uttar Pradesh,Uttar West,Block C,549752,Sub District Hospital,Government,GEN-00647,20.077241,68.163222
+Government Uttar West Hospital 3,"Main Road, Uttar West, Uttar Pradesh",Uttar Pradesh,Uttar West,Block A,412557,Community Health Centre,Government,GEN-00648,12.023621,82.356133
+Government Uttar West Hospital 4,"Main Road, Uttar West, Uttar Pradesh",Uttar Pradesh,Uttar West,Block C,582230,Primary Health Centre,Government,GEN-00649,23.07175,72.630307
+Government Uttar West Hospital 5,"Main Road, Uttar West, Uttar Pradesh",Uttar Pradesh,Uttar West,Block B,290071,Medical College Hospital,Government,GEN-00650,36.64156,87.279453
+Government Uttarakhand Central Hospital 1,"Main Road, Uttarakhand Central, Uttarakhand",Uttarakhand,Uttarakhand Central,Block A,204499,District Hospital,Government,GEN-00651,15.968131,80.87194
+Government Uttarakhand Central Hospital 2,"Main Road, Uttarakhand Central, Uttarakhand",Uttarakhand,Uttarakhand Central,Block B,773447,Sub District Hospital,Government,GEN-00652,34.402338,68.722296
+Government Uttarakhand Central Hospital 3,"Main Road, Uttarakhand Central, Uttarakhand",Uttarakhand,Uttarakhand Central,Block B,204692,Community Health Centre,Government,GEN-00653,24.95047,96.362947
+Government Uttarakhand Central Hospital 4,"Main Road, Uttarakhand Central, Uttarakhand",Uttarakhand,Uttarakhand Central,Block C,383017,Primary Health Centre,Government,GEN-00654,26.530714,85.246428
+Government Uttarakhand Central Hospital 5,"Main Road, Uttarakhand Central, Uttarakhand",Uttarakhand,Uttarakhand Central,Block B,808576,Medical College Hospital,Government,GEN-00655,22.951819,79.062849
+Government Uttarakhand North Hospital 1,"Main Road, Uttarakhand North, Uttarakhand",Uttarakhand,Uttarakhand North,Block C,449741,District Hospital,Government,GEN-00656,34.782253,85.79384
+Government Uttarakhand North Hospital 2,"Main Road, Uttarakhand North, Uttarakhand",Uttarakhand,Uttarakhand North,Block C,299872,Sub District Hospital,Government,GEN-00657,36.381671,85.221579
+Government Uttarakhand North Hospital 3,"Main Road, Uttarakhand North, Uttarakhand",Uttarakhand,Uttarakhand North,Block A,314327,Community Health Centre,Government,GEN-00658,16.893404,77.878251
+Government Uttarakhand North Hospital 4,"Main Road, Uttarakhand North, Uttarakhand",Uttarakhand,Uttarakhand North,Block C,191166,Primary Health Centre,Government,GEN-00659,29.660379,88.620801
+Government Uttarakhand North Hospital 5,"Main Road, Uttarakhand North, Uttarakhand",Uttarakhand,Uttarakhand North,Block C,289477,Medical College Hospital,Government,GEN-00660,23.461995,71.367139
+Government Uttarakhand South Hospital 1,"Main Road, Uttarakhand South, Uttarakhand",Uttarakhand,Uttarakhand South,Block A,403332,District Hospital,Government,GEN-00661,35.023133,91.512021
+Government Uttarakhand South Hospital 2,"Main Road, Uttarakhand South, Uttarakhand",Uttarakhand,Uttarakhand South,Block C,192706,Sub District Hospital,Government,GEN-00662,19.932619,81.090732
+Government Uttarakhand South Hospital 3,"Main Road, Uttarakhand South, Uttarakhand",Uttarakhand,Uttarakhand South,Block C,684057,Community Health Centre,Government,GEN-00663,30.821578,84.09823
+Government Uttarakhand South Hospital 4,"Main Road, Uttarakhand South, Uttarakhand",Uttarakhand,Uttarakhand South,Block C,643501,Primary Health Centre,Government,GEN-00664,8.935065,91.117236
+Government Uttarakhand South Hospital 5,"Main Road, Uttarakhand South, Uttarakhand",Uttarakhand,Uttarakhand South,Block A,123338,Medical College Hospital,Government,GEN-00665,30.560592,77.058738
+Government Uttarakhand East Hospital 1,"Main Road, Uttarakhand East, Uttarakhand",Uttarakhand,Uttarakhand East,Block C,716025,District Hospital,Government,GEN-00666,19.739348,91.526696
+Government Uttarakhand East Hospital 2,"Main Road, Uttarakhand East, Uttarakhand",Uttarakhand,Uttarakhand East,Block A,441092,Sub District Hospital,Government,GEN-00667,30.555007,76.518424
+Government Uttarakhand East Hospital 3,"Main Road, Uttarakhand East, Uttarakhand",Uttarakhand,Uttarakhand East,Block A,693717,Community Health Centre,Government,GEN-00668,29.642012,94.060186
+Government Uttarakhand East Hospital 4,"Main Road, Uttarakhand East, Uttarakhand",Uttarakhand,Uttarakhand East,Block A,327271,Primary Health Centre,Government,GEN-00669,26.987926,72.875249
+Government Uttarakhand East Hospital 5,"Main Road, Uttarakhand East, Uttarakhand",Uttarakhand,Uttarakhand East,Block C,176720,Medical College Hospital,Government,GEN-00670,37.404268,69.839112
+Government Uttarakhand West Hospital 1,"Main Road, Uttarakhand West, Uttarakhand",Uttarakhand,Uttarakhand West,Block A,696362,District Hospital,Government,GEN-00671,8.420831,85.726647
+Government Uttarakhand West Hospital 2,"Main Road, Uttarakhand West, Uttarakhand",Uttarakhand,Uttarakhand West,Block B,655517,Sub District Hospital,Government,GEN-00672,13.763537,90.326628
+Government Uttarakhand West Hospital 3,"Main Road, Uttarakhand West, Uttarakhand",Uttarakhand,Uttarakhand West,Block B,250724,Community Health Centre,Government,GEN-00673,36.979603,78.39775
+Government Uttarakhand West Hospital 4,"Main Road, Uttarakhand West, Uttarakhand",Uttarakhand,Uttarakhand West,Block C,151840,Primary Health Centre,Government,GEN-00674,17.90877,75.354514
+Government Uttarakhand West Hospital 5,"Main Road, Uttarakhand West, Uttarakhand",Uttarakhand,Uttarakhand West,Block A,258431,Medical College Hospital,Government,GEN-00675,13.656183,86.635147
+Government West Central Hospital 1,"Main Road, West Central, West Bengal",West Bengal,West Central,Block B,191754,District Hospital,Government,GEN-00676,27.348615,77.19035
+Government West Central Hospital 2,"Main Road, West Central, West Bengal",West Bengal,West Central,Block B,820389,Sub District Hospital,Government,GEN-00677,21.126369,85.655471
+Government West Central Hospital 3,"Main Road, West Central, West Bengal",West Bengal,West Central,Block B,323517,Community Health Centre,Government,GEN-00678,34.937256,78.097924
+Government West Central Hospital 4,"Main Road, West Central, West Bengal",West Bengal,West Central,Block C,568238,Primary Health Centre,Government,GEN-00679,36.400325,90.711581
+Government West Central Hospital 5,"Main Road, West Central, West Bengal",West Bengal,West Central,Block C,830221,Medical College Hospital,Government,GEN-00680,24.881757,93.510513
+Government West North Hospital 1,"Main Road, West North, West Bengal",West Bengal,West North,Block A,552558,District Hospital,Government,GEN-00681,15.011064,72.965028
+Government West North Hospital 2,"Main Road, West North, West Bengal",West Bengal,West North,Block A,747190,Sub District Hospital,Government,GEN-00682,18.606757,90.312217
+Government West North Hospital 3,"Main Road, West North, West Bengal",West Bengal,West North,Block B,166572,Community Health Centre,Government,GEN-00683,36.122462,89.236983
+Government West North Hospital 4,"Main Road, West North, West Bengal",West Bengal,West North,Block C,798994,Primary Health Centre,Government,GEN-00684,31.298838,81.767067
+Government West North Hospital 5,"Main Road, West North, West Bengal",West Bengal,West North,Block C,379808,Medical College Hospital,Government,GEN-00685,31.476275,85.893346
+Government West South Hospital 1,"Main Road, West South, West Bengal",West Bengal,West South,Block A,420228,District Hospital,Government,GEN-00686,16.008795,81.431392
+Government West South Hospital 2,"Main Road, West South, West Bengal",West Bengal,West South,Block C,790213,Sub District Hospital,Government,GEN-00687,8.271799,81.391374
+Government West South Hospital 3,"Main Road, West South, West Bengal",West Bengal,West South,Block C,366178,Community Health Centre,Government,GEN-00688,8.522588,95.86735
+Government West South Hospital 4,"Main Road, West South, West Bengal",West Bengal,West South,Block B,773856,Primary Health Centre,Government,GEN-00689,30.824231,87.574553
+Government West South Hospital 5,"Main Road, West South, West Bengal",West Bengal,West South,Block A,454972,Medical College Hospital,Government,GEN-00690,11.891982,87.569057
+Government West East Hospital 1,"Main Road, West East, West Bengal",West Bengal,West East,Block B,321747,District Hospital,Government,GEN-00691,8.796598,74.448568
+Government West East Hospital 2,"Main Road, West East, West Bengal",West Bengal,West East,Block C,125290,Sub District Hospital,Government,GEN-00692,35.90863,89.723359
+Government West East Hospital 3,"Main Road, West East, West Bengal",West Bengal,West East,Block B,758391,Community Health Centre,Government,GEN-00693,33.319381,93.140349
+Government West East Hospital 4,"Main Road, West East, West Bengal",West Bengal,West East,Block A,579261,Primary Health Centre,Government,GEN-00694,27.458743,78.003415
+Government West East Hospital 5,"Main Road, West East, West Bengal",West Bengal,West East,Block A,568427,Medical College Hospital,Government,GEN-00695,27.821948,72.259068
+Government West West Hospital 1,"Main Road, West West, West Bengal",West Bengal,West West,Block A,824777,District Hospital,Government,GEN-00696,17.704808,96.414076
+Government West West Hospital 2,"Main Road, West West, West Bengal",West Bengal,West West,Block A,688411,Sub District Hospital,Government,GEN-00697,22.533136,72.431345
+Government West West Hospital 3,"Main Road, West West, West Bengal",West Bengal,West West,Block A,448319,Community Health Centre,Government,GEN-00698,35.296952,74.592113
+Government West West Hospital 4,"Main Road, West West, West Bengal",West Bengal,West West,Block B,493716,Primary Health Centre,Government,GEN-00699,12.10272,84.993036
+Government West West Hospital 5,"Main Road, West West, West Bengal",West Bengal,West West,Block B,547187,Medical College Hospital,Government,GEN-00700,31.954508,96.171693
+Government Andaman Central Hospital 1,"Main Road, Andaman Central, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman Central,Block B,425237,District Hospital,Government,GEN-00701,10.704509,75.591678
+Government Andaman Central Hospital 2,"Main Road, Andaman Central, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman Central,Block C,167642,Sub District Hospital,Government,GEN-00702,16.572353,91.524415
+Government Andaman Central Hospital 3,"Main Road, Andaman Central, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman Central,Block A,477658,Community Health Centre,Government,GEN-00703,26.292464,69.529993
+Government Andaman Central Hospital 4,"Main Road, Andaman Central, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman Central,Block B,301167,Primary Health Centre,Government,GEN-00704,27.534828,89.953516
+Government Andaman Central Hospital 5,"Main Road, Andaman Central, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman Central,Block B,391316,Medical College Hospital,Government,GEN-00705,12.564447,68.55836
+Government Andaman North Hospital 1,"Main Road, Andaman North, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman North,Block B,748264,District Hospital,Government,GEN-00706,28.733498,95.830126
+Government Andaman North Hospital 2,"Main Road, Andaman North, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman North,Block A,111705,Sub District Hospital,Government,GEN-00707,23.746555,80.040402
+Government Andaman North Hospital 3,"Main Road, Andaman North, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman North,Block B,764251,Community Health Centre,Government,GEN-00708,32.438618,85.760664
+Government Andaman North Hospital 4,"Main Road, Andaman North, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman North,Block A,263062,Primary Health Centre,Government,GEN-00709,35.934898,85.780007
+Government Andaman North Hospital 5,"Main Road, Andaman North, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman North,Block B,675002,Medical College Hospital,Government,GEN-00710,27.125224,85.629641
+Government Andaman South Hospital 1,"Main Road, Andaman South, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman South,Block C,776884,District Hospital,Government,GEN-00711,34.357569,75.984382
+Government Andaman South Hospital 2,"Main Road, Andaman South, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman South,Block C,366940,Sub District Hospital,Government,GEN-00712,30.085247,86.988701
+Government Andaman South Hospital 3,"Main Road, Andaman South, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman South,Block B,808102,Community Health Centre,Government,GEN-00713,16.876012,86.436495
+Government Andaman South Hospital 4,"Main Road, Andaman South, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman South,Block C,383226,Primary Health Centre,Government,GEN-00714,34.482413,94.364994
+Government Andaman South Hospital 5,"Main Road, Andaman South, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman South,Block C,544552,Medical College Hospital,Government,GEN-00715,19.379925,96.262342
+Government Andaman East Hospital 1,"Main Road, Andaman East, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman East,Block A,508236,District Hospital,Government,GEN-00716,12.667226,82.962522
+Government Andaman East Hospital 2,"Main Road, Andaman East, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman East,Block A,416519,Sub District Hospital,Government,GEN-00717,22.638008,88.720427
+Government Andaman East Hospital 3,"Main Road, Andaman East, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman East,Block A,563979,Community Health Centre,Government,GEN-00718,26.128846,82.116416
+Government Andaman East Hospital 4,"Main Road, Andaman East, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman East,Block C,532878,Primary Health Centre,Government,GEN-00719,17.368714,85.177092
+Government Andaman East Hospital 5,"Main Road, Andaman East, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman East,Block B,420109,Medical College Hospital,Government,GEN-00720,20.604647,77.931502
+Government Andaman West Hospital 1,"Main Road, Andaman West, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman West,Block C,659942,District Hospital,Government,GEN-00721,37.307541,76.152275
+Government Andaman West Hospital 2,"Main Road, Andaman West, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman West,Block A,165756,Sub District Hospital,Government,GEN-00722,26.274837,69.017108
+Government Andaman West Hospital 3,"Main Road, Andaman West, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman West,Block A,388138,Community Health Centre,Government,GEN-00723,11.498966,78.151928
+Government Andaman West Hospital 4,"Main Road, Andaman West, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman West,Block A,691823,Primary Health Centre,Government,GEN-00724,11.707867,70.910061
+Government Andaman West Hospital 5,"Main Road, Andaman West, Andaman and Nicobar Islands",Andaman and Nicobar Islands,Andaman West,Block A,801177,Medical College Hospital,Government,GEN-00725,26.10171,89.186428
+Government Chandigarh Central Hospital 1,"Main Road, Chandigarh Central, Chandigarh",Chandigarh,Chandigarh Central,Block C,491560,District Hospital,Government,GEN-00726,33.241078,92.643917
+Government Chandigarh Central Hospital 2,"Main Road, Chandigarh Central, Chandigarh",Chandigarh,Chandigarh Central,Block B,839010,Sub District Hospital,Government,GEN-00727,18.393986,88.998068
+Government Chandigarh Central Hospital 3,"Main Road, Chandigarh Central, Chandigarh",Chandigarh,Chandigarh Central,Block A,322522,Community Health Centre,Government,GEN-00728,26.041059,69.063391
+Government Chandigarh Central Hospital 4,"Main Road, Chandigarh Central, Chandigarh",Chandigarh,Chandigarh Central,Block B,178182,Primary Health Centre,Government,GEN-00729,32.541772,82.518664
+Government Chandigarh Central Hospital 5,"Main Road, Chandigarh Central, Chandigarh",Chandigarh,Chandigarh Central,Block B,608007,Medical College Hospital,Government,GEN-00730,14.988853,68.60145
+Government Chandigarh North Hospital 1,"Main Road, Chandigarh North, Chandigarh",Chandigarh,Chandigarh North,Block A,570183,District Hospital,Government,GEN-00731,12.555332,72.61455
+Government Chandigarh North Hospital 2,"Main Road, Chandigarh North, Chandigarh",Chandigarh,Chandigarh North,Block C,697340,Sub District Hospital,Government,GEN-00732,8.036798,88.440936
+Government Chandigarh North Hospital 3,"Main Road, Chandigarh North, Chandigarh",Chandigarh,Chandigarh North,Block C,775881,Community Health Centre,Government,GEN-00733,8.077663,90.00014
+Government Chandigarh North Hospital 4,"Main Road, Chandigarh North, Chandigarh",Chandigarh,Chandigarh North,Block C,547035,Primary Health Centre,Government,GEN-00734,20.756584,74.747225
+Government Chandigarh North Hospital 5,"Main Road, Chandigarh North, Chandigarh",Chandigarh,Chandigarh North,Block A,396585,Medical College Hospital,Government,GEN-00735,19.790227,75.515
+Government Chandigarh South Hospital 1,"Main Road, Chandigarh South, Chandigarh",Chandigarh,Chandigarh South,Block A,397761,District Hospital,Government,GEN-00736,32.127801,84.081042
+Government Chandigarh South Hospital 2,"Main Road, Chandigarh South, Chandigarh",Chandigarh,Chandigarh South,Block A,227188,Sub District Hospital,Government,GEN-00737,30.328415,89.670415
+Government Chandigarh South Hospital 3,"Main Road, Chandigarh South, Chandigarh",Chandigarh,Chandigarh South,Block A,282263,Community Health Centre,Government,GEN-00738,26.109504,88.218061
+Government Chandigarh South Hospital 4,"Main Road, Chandigarh South, Chandigarh",Chandigarh,Chandigarh South,Block B,425830,Primary Health Centre,Government,GEN-00739,34.938642,75.78949
+Government Chandigarh South Hospital 5,"Main Road, Chandigarh South, Chandigarh",Chandigarh,Chandigarh South,Block A,321540,Medical College Hospital,Government,GEN-00740,26.515266,93.190045
+Government Chandigarh East Hospital 1,"Main Road, Chandigarh East, Chandigarh",Chandigarh,Chandigarh East,Block C,544023,District Hospital,Government,GEN-00741,27.410869,78.140864
+Government Chandigarh East Hospital 2,"Main Road, Chandigarh East, Chandigarh",Chandigarh,Chandigarh East,Block B,209041,Sub District Hospital,Government,GEN-00742,20.416416,76.659793
+Government Chandigarh East Hospital 3,"Main Road, Chandigarh East, Chandigarh",Chandigarh,Chandigarh East,Block B,302450,Community Health Centre,Government,GEN-00743,16.624667,95.10262
+Government Chandigarh East Hospital 4,"Main Road, Chandigarh East, Chandigarh",Chandigarh,Chandigarh East,Block B,468166,Primary Health Centre,Government,GEN-00744,31.567405,84.71104
+Government Chandigarh East Hospital 5,"Main Road, Chandigarh East, Chandigarh",Chandigarh,Chandigarh East,Block C,530175,Medical College Hospital,Government,GEN-00745,28.966372,88.883496
+Government Chandigarh West Hospital 1,"Main Road, Chandigarh West, Chandigarh",Chandigarh,Chandigarh West,Block C,351197,District Hospital,Government,GEN-00746,10.159362,86.582544
+Government Chandigarh West Hospital 2,"Main Road, Chandigarh West, Chandigarh",Chandigarh,Chandigarh West,Block B,462124,Sub District Hospital,Government,GEN-00747,24.104539,73.369222
+Government Chandigarh West Hospital 3,"Main Road, Chandigarh West, Chandigarh",Chandigarh,Chandigarh West,Block C,563929,Community Health Centre,Government,GEN-00748,9.944437,71.224882
+Government Chandigarh West Hospital 4,"Main Road, Chandigarh West, Chandigarh",Chandigarh,Chandigarh West,Block A,583877,Primary Health Centre,Government,GEN-00749,9.098273,68.496579
+Government Chandigarh West Hospital 5,"Main Road, Chandigarh West, Chandigarh",Chandigarh,Chandigarh West,Block A,367932,Medical College Hospital,Government,GEN-00750,15.699234,91.593863
+Government Dadra Central Hospital 1,"Main Road, Dadra Central, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra Central,Block C,219448,District Hospital,Government,GEN-00751,23.383461,84.495884
+Government Dadra Central Hospital 2,"Main Road, Dadra Central, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra Central,Block B,672551,Sub District Hospital,Government,GEN-00752,11.675026,90.366804
+Government Dadra Central Hospital 3,"Main Road, Dadra Central, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra Central,Block C,760859,Community Health Centre,Government,GEN-00753,24.777451,72.438661
+Government Dadra Central Hospital 4,"Main Road, Dadra Central, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra Central,Block B,690866,Primary Health Centre,Government,GEN-00754,32.404552,82.284519
+Government Dadra Central Hospital 5,"Main Road, Dadra Central, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra Central,Block C,837792,Medical College Hospital,Government,GEN-00755,29.092769,75.563019
+Government Dadra North Hospital 1,"Main Road, Dadra North, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra North,Block B,505504,District Hospital,Government,GEN-00756,18.230001,88.984965
+Government Dadra North Hospital 2,"Main Road, Dadra North, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra North,Block A,611242,Sub District Hospital,Government,GEN-00757,21.466595,96.70328
+Government Dadra North Hospital 3,"Main Road, Dadra North, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra North,Block B,710029,Community Health Centre,Government,GEN-00758,16.768533,95.431003
+Government Dadra North Hospital 4,"Main Road, Dadra North, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra North,Block A,665382,Primary Health Centre,Government,GEN-00759,19.916419,68.541635
+Government Dadra North Hospital 5,"Main Road, Dadra North, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra North,Block B,383174,Medical College Hospital,Government,GEN-00760,35.681306,96.572399
+Government Dadra South Hospital 1,"Main Road, Dadra South, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra South,Block A,528735,District Hospital,Government,GEN-00761,34.120834,70.556764
+Government Dadra South Hospital 2,"Main Road, Dadra South, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra South,Block C,798288,Sub District Hospital,Government,GEN-00762,18.284603,71.997274
+Government Dadra South Hospital 3,"Main Road, Dadra South, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra South,Block A,771125,Community Health Centre,Government,GEN-00763,8.768326,90.47228
+Government Dadra South Hospital 4,"Main Road, Dadra South, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra South,Block A,709976,Primary Health Centre,Government,GEN-00764,14.414579,79.28071
+Government Dadra South Hospital 5,"Main Road, Dadra South, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra South,Block C,811986,Medical College Hospital,Government,GEN-00765,35.271661,87.189237
+Government Dadra East Hospital 1,"Main Road, Dadra East, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra East,Block C,329015,District Hospital,Government,GEN-00766,28.86414,72.666965
+Government Dadra East Hospital 2,"Main Road, Dadra East, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra East,Block B,474132,Sub District Hospital,Government,GEN-00767,14.113233,73.77638
+Government Dadra East Hospital 3,"Main Road, Dadra East, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra East,Block A,605278,Community Health Centre,Government,GEN-00768,34.13908,89.711936
+Government Dadra East Hospital 4,"Main Road, Dadra East, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra East,Block B,389748,Primary Health Centre,Government,GEN-00769,27.186358,90.924133
+Government Dadra East Hospital 5,"Main Road, Dadra East, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra East,Block B,485538,Medical College Hospital,Government,GEN-00770,14.582961,76.428954
+Government Dadra West Hospital 1,"Main Road, Dadra West, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra West,Block A,390907,District Hospital,Government,GEN-00771,36.306679,83.647993
+Government Dadra West Hospital 2,"Main Road, Dadra West, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra West,Block C,442552,Sub District Hospital,Government,GEN-00772,34.040457,85.816803
+Government Dadra West Hospital 3,"Main Road, Dadra West, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra West,Block A,349285,Community Health Centre,Government,GEN-00773,12.554804,82.576799
+Government Dadra West Hospital 4,"Main Road, Dadra West, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra West,Block A,232329,Primary Health Centre,Government,GEN-00774,24.148206,90.405539
+Government Dadra West Hospital 5,"Main Road, Dadra West, Dadra and Nagar Haveli and Daman and Diu",Dadra and Nagar Haveli and Daman and Diu,Dadra West,Block C,247014,Medical College Hospital,Government,GEN-00775,35.296725,94.792822
+Government Delhi Central Hospital 1,"Main Road, Delhi Central, Delhi",Delhi,Delhi Central,Block B,149841,District Hospital,Government,GEN-00776,16.460743,77.08848
+Government Delhi Central Hospital 2,"Main Road, Delhi Central, Delhi",Delhi,Delhi Central,Block C,706968,Sub District Hospital,Government,GEN-00777,33.213585,82.531003
+Government Delhi Central Hospital 3,"Main Road, Delhi Central, Delhi",Delhi,Delhi Central,Block C,834752,Community Health Centre,Government,GEN-00778,21.772216,81.256324
+Government Delhi Central Hospital 4,"Main Road, Delhi Central, Delhi",Delhi,Delhi Central,Block B,569212,Primary Health Centre,Government,GEN-00779,35.3258,87.786017
+Government Delhi Central Hospital 5,"Main Road, Delhi Central, Delhi",Delhi,Delhi Central,Block A,677526,Medical College Hospital,Government,GEN-00780,12.278042,92.534631
+Government Delhi North Hospital 1,"Main Road, Delhi North, Delhi",Delhi,Delhi North,Block C,585480,District Hospital,Government,GEN-00781,10.128683,72.040622
+Government Delhi North Hospital 2,"Main Road, Delhi North, Delhi",Delhi,Delhi North,Block A,662069,Sub District Hospital,Government,GEN-00782,34.846589,90.540704
+Government Delhi North Hospital 3,"Main Road, Delhi North, Delhi",Delhi,Delhi North,Block A,176988,Community Health Centre,Government,GEN-00783,8.532222,95.279401
+Government Delhi North Hospital 4,"Main Road, Delhi North, Delhi",Delhi,Delhi North,Block C,560075,Primary Health Centre,Government,GEN-00784,33.496054,68.863557
+Government Delhi North Hospital 5,"Main Road, Delhi North, Delhi",Delhi,Delhi North,Block B,433946,Medical College Hospital,Government,GEN-00785,12.624829,83.516423
+Government Delhi South Hospital 1,"Main Road, Delhi South, Delhi",Delhi,Delhi South,Block C,654164,District Hospital,Government,GEN-00786,20.683502,87.652086
+Government Delhi South Hospital 2,"Main Road, Delhi South, Delhi",Delhi,Delhi South,Block C,739500,Sub District Hospital,Government,GEN-00787,14.521816,90.133931
+Government Delhi South Hospital 3,"Main Road, Delhi South, Delhi",Delhi,Delhi South,Block B,709085,Community Health Centre,Government,GEN-00788,13.295303,95.281171
+Government Delhi South Hospital 4,"Main Road, Delhi South, Delhi",Delhi,Delhi South,Block C,636989,Primary Health Centre,Government,GEN-00789,23.200026,91.19056
+Government Delhi South Hospital 5,"Main Road, Delhi South, Delhi",Delhi,Delhi South,Block A,564741,Medical College Hospital,Government,GEN-00790,22.950223,79.23856
+Government Delhi East Hospital 1,"Main Road, Delhi East, Delhi",Delhi,Delhi East,Block A,225949,District Hospital,Government,GEN-00791,17.522356,68.863023
+Government Delhi East Hospital 2,"Main Road, Delhi East, Delhi",Delhi,Delhi East,Block C,318856,Sub District Hospital,Government,GEN-00792,18.26348,92.362007
+Government Delhi East Hospital 3,"Main Road, Delhi East, Delhi",Delhi,Delhi East,Block B,685278,Community Health Centre,Government,GEN-00793,16.270975,94.306777
+Government Delhi East Hospital 4,"Main Road, Delhi East, Delhi",Delhi,Delhi East,Block B,533994,Primary Health Centre,Government,GEN-00794,30.719974,78.603069
+Government Delhi East Hospital 5,"Main Road, Delhi East, Delhi",Delhi,Delhi East,Block C,791151,Medical College Hospital,Government,GEN-00795,35.590633,76.223561
+Government Delhi West Hospital 1,"Main Road, Delhi West, Delhi",Delhi,Delhi West,Block A,705978,District Hospital,Government,GEN-00796,26.451482,71.986177
+Government Delhi West Hospital 2,"Main Road, Delhi West, Delhi",Delhi,Delhi West,Block A,284146,Sub District Hospital,Government,GEN-00797,35.821868,70.917597
+Government Delhi West Hospital 3,"Main Road, Delhi West, Delhi",Delhi,Delhi West,Block C,220626,Community Health Centre,Government,GEN-00798,30.071101,91.658795
+Government Delhi West Hospital 4,"Main Road, Delhi West, Delhi",Delhi,Delhi West,Block C,515547,Primary Health Centre,Government,GEN-00799,11.044051,76.248247
+Government Delhi West Hospital 5,"Main Road, Delhi West, Delhi",Delhi,Delhi West,Block B,263327,Medical College Hospital,Government,GEN-00800,30.23894,70.594884
+Government Jammu Central Hospital 1,"Main Road, Jammu Central, Jammu and Kashmir",Jammu and Kashmir,Jammu Central,Block C,313872,District Hospital,Government,GEN-00801,8.097986,75.59137
+Government Jammu Central Hospital 2,"Main Road, Jammu Central, Jammu and Kashmir",Jammu and Kashmir,Jammu Central,Block C,394343,Sub District Hospital,Government,GEN-00802,26.459328,78.613407
+Government Jammu Central Hospital 3,"Main Road, Jammu Central, Jammu and Kashmir",Jammu and Kashmir,Jammu Central,Block C,661261,Community Health Centre,Government,GEN-00803,34.553458,86.118371
+Government Jammu Central Hospital 4,"Main Road, Jammu Central, Jammu and Kashmir",Jammu and Kashmir,Jammu Central,Block A,497630,Primary Health Centre,Government,GEN-00804,36.365482,87.36386
+Government Jammu Central Hospital 5,"Main Road, Jammu Central, Jammu and Kashmir",Jammu and Kashmir,Jammu Central,Block A,795480,Medical College Hospital,Government,GEN-00805,24.394603,87.340731
+Government Jammu North Hospital 1,"Main Road, Jammu North, Jammu and Kashmir",Jammu and Kashmir,Jammu North,Block C,423583,District Hospital,Government,GEN-00806,14.917801,72.001991
+Government Jammu North Hospital 2,"Main Road, Jammu North, Jammu and Kashmir",Jammu and Kashmir,Jammu North,Block A,124865,Sub District Hospital,Government,GEN-00807,37.245803,72.908453
+Government Jammu North Hospital 3,"Main Road, Jammu North, Jammu and Kashmir",Jammu and Kashmir,Jammu North,Block C,394744,Community Health Centre,Government,GEN-00808,9.805453,69.072524
+Government Jammu North Hospital 4,"Main Road, Jammu North, Jammu and Kashmir",Jammu and Kashmir,Jammu North,Block C,600162,Primary Health Centre,Government,GEN-00809,28.571017,76.087076
+Government Jammu North Hospital 5,"Main Road, Jammu North, Jammu and Kashmir",Jammu and Kashmir,Jammu North,Block B,708753,Medical College Hospital,Government,GEN-00810,8.358231,72.579129
+Government Jammu South Hospital 1,"Main Road, Jammu South, Jammu and Kashmir",Jammu and Kashmir,Jammu South,Block A,309811,District Hospital,Government,GEN-00811,17.507398,69.033577
+Government Jammu South Hospital 2,"Main Road, Jammu South, Jammu and Kashmir",Jammu and Kashmir,Jammu South,Block A,139677,Sub District Hospital,Government,GEN-00812,12.657804,89.287412
+Government Jammu South Hospital 3,"Main Road, Jammu South, Jammu and Kashmir",Jammu and Kashmir,Jammu South,Block B,221839,Community Health Centre,Government,GEN-00813,26.621489,78.587941
+Government Jammu South Hospital 4,"Main Road, Jammu South, Jammu and Kashmir",Jammu and Kashmir,Jammu South,Block A,243351,Primary Health Centre,Government,GEN-00814,37.171824,95.887412
+Government Jammu South Hospital 5,"Main Road, Jammu South, Jammu and Kashmir",Jammu and Kashmir,Jammu South,Block C,802747,Medical College Hospital,Government,GEN-00815,31.14019,86.065155
+Government Jammu East Hospital 1,"Main Road, Jammu East, Jammu and Kashmir",Jammu and Kashmir,Jammu East,Block C,401860,District Hospital,Government,GEN-00816,33.639788,85.532262
+Government Jammu East Hospital 2,"Main Road, Jammu East, Jammu and Kashmir",Jammu and Kashmir,Jammu East,Block B,529091,Sub District Hospital,Government,GEN-00817,30.029847,73.104424
+Government Jammu East Hospital 3,"Main Road, Jammu East, Jammu and Kashmir",Jammu and Kashmir,Jammu East,Block B,821524,Community Health Centre,Government,GEN-00818,35.407368,93.589524
+Government Jammu East Hospital 4,"Main Road, Jammu East, Jammu and Kashmir",Jammu and Kashmir,Jammu East,Block C,130594,Primary Health Centre,Government,GEN-00819,31.745569,72.778608
+Government Jammu East Hospital 5,"Main Road, Jammu East, Jammu and Kashmir",Jammu and Kashmir,Jammu East,Block B,166368,Medical College Hospital,Government,GEN-00820,9.304893,91.596076
+Government Jammu West Hospital 1,"Main Road, Jammu West, Jammu and Kashmir",Jammu and Kashmir,Jammu West,Block C,761077,District Hospital,Government,GEN-00821,34.616414,89.545788
+Government Jammu West Hospital 2,"Main Road, Jammu West, Jammu and Kashmir",Jammu and Kashmir,Jammu West,Block B,807419,Sub District Hospital,Government,GEN-00822,25.859596,82.774586
+Government Jammu West Hospital 3,"Main Road, Jammu West, Jammu and Kashmir",Jammu and Kashmir,Jammu West,Block A,440754,Community Health Centre,Government,GEN-00823,18.012159,70.719266
+Government Jammu West Hospital 4,"Main Road, Jammu West, Jammu and Kashmir",Jammu and Kashmir,Jammu West,Block A,379647,Primary Health Centre,Government,GEN-00824,26.344424,94.371558
+Government Jammu West Hospital 5,"Main Road, Jammu West, Jammu and Kashmir",Jammu and Kashmir,Jammu West,Block A,414580,Medical College Hospital,Government,GEN-00825,11.228013,93.452636
+Government Ladakh Central Hospital 1,"Main Road, Ladakh Central, Ladakh",Ladakh,Ladakh Central,Block C,186463,District Hospital,Government,GEN-00826,18.604518,86.596669
+Government Ladakh Central Hospital 2,"Main Road, Ladakh Central, Ladakh",Ladakh,Ladakh Central,Block A,440629,Sub District Hospital,Government,GEN-00827,30.018598,82.784404
+Government Ladakh Central Hospital 3,"Main Road, Ladakh Central, Ladakh",Ladakh,Ladakh Central,Block B,246529,Community Health Centre,Government,GEN-00828,17.812497,78.279751
+Government Ladakh Central Hospital 4,"Main Road, Ladakh Central, Ladakh",Ladakh,Ladakh Central,Block C,113009,Primary Health Centre,Government,GEN-00829,9.16857,77.757077
+Government Ladakh Central Hospital 5,"Main Road, Ladakh Central, Ladakh",Ladakh,Ladakh Central,Block C,587802,Medical College Hospital,Government,GEN-00830,30.465245,91.492914
+Government Ladakh North Hospital 1,"Main Road, Ladakh North, Ladakh",Ladakh,Ladakh North,Block C,283190,District Hospital,Government,GEN-00831,21.315178,78.47385
+Government Ladakh North Hospital 2,"Main Road, Ladakh North, Ladakh",Ladakh,Ladakh North,Block A,786374,Sub District Hospital,Government,GEN-00832,8.651131,76.306458
+Government Ladakh North Hospital 3,"Main Road, Ladakh North, Ladakh",Ladakh,Ladakh North,Block A,421617,Community Health Centre,Government,GEN-00833,12.105143,78.614601
+Government Ladakh North Hospital 4,"Main Road, Ladakh North, Ladakh",Ladakh,Ladakh North,Block A,123326,Primary Health Centre,Government,GEN-00834,34.142817,88.950303
+Government Ladakh North Hospital 5,"Main Road, Ladakh North, Ladakh",Ladakh,Ladakh North,Block B,406959,Medical College Hospital,Government,GEN-00835,25.75888,75.44053
+Government Ladakh South Hospital 1,"Main Road, Ladakh South, Ladakh",Ladakh,Ladakh South,Block A,255748,District Hospital,Government,GEN-00836,24.101101,94.161023
+Government Ladakh South Hospital 2,"Main Road, Ladakh South, Ladakh",Ladakh,Ladakh South,Block A,178462,Sub District Hospital,Government,GEN-00837,37.183788,90.247227
+Government Ladakh South Hospital 3,"Main Road, Ladakh South, Ladakh",Ladakh,Ladakh South,Block B,600422,Community Health Centre,Government,GEN-00838,9.205811,81.473148
+Government Ladakh South Hospital 4,"Main Road, Ladakh South, Ladakh",Ladakh,Ladakh South,Block A,471118,Primary Health Centre,Government,GEN-00839,14.3597,73.669507
+Government Ladakh South Hospital 5,"Main Road, Ladakh South, Ladakh",Ladakh,Ladakh South,Block B,821727,Medical College Hospital,Government,GEN-00840,16.403708,83.699831
+Government Ladakh East Hospital 1,"Main Road, Ladakh East, Ladakh",Ladakh,Ladakh East,Block B,432945,District Hospital,Government,GEN-00841,32.944309,80.029704
+Government Ladakh East Hospital 2,"Main Road, Ladakh East, Ladakh",Ladakh,Ladakh East,Block B,470020,Sub District Hospital,Government,GEN-00842,25.084518,92.785498
+Government Ladakh East Hospital 3,"Main Road, Ladakh East, Ladakh",Ladakh,Ladakh East,Block A,590002,Community Health Centre,Government,GEN-00843,14.241849,76.038619
+Government Ladakh East Hospital 4,"Main Road, Ladakh East, Ladakh",Ladakh,Ladakh East,Block C,754895,Primary Health Centre,Government,GEN-00844,36.007008,83.107118
+Government Ladakh East Hospital 5,"Main Road, Ladakh East, Ladakh",Ladakh,Ladakh East,Block B,563763,Medical College Hospital,Government,GEN-00845,35.294808,73.509896
+Government Ladakh West Hospital 1,"Main Road, Ladakh West, Ladakh",Ladakh,Ladakh West,Block B,277759,District Hospital,Government,GEN-00846,28.180695,95.28856
+Government Ladakh West Hospital 2,"Main Road, Ladakh West, Ladakh",Ladakh,Ladakh West,Block B,776209,Sub District Hospital,Government,GEN-00847,36.699112,70.196681
+Government Ladakh West Hospital 3,"Main Road, Ladakh West, Ladakh",Ladakh,Ladakh West,Block B,703727,Community Health Centre,Government,GEN-00848,23.076242,96.484266
+Government Ladakh West Hospital 4,"Main Road, Ladakh West, Ladakh",Ladakh,Ladakh West,Block C,717739,Primary Health Centre,Government,GEN-00849,30.084675,81.087305
+Government Ladakh West Hospital 5,"Main Road, Ladakh West, Ladakh",Ladakh,Ladakh West,Block C,803995,Medical College Hospital,Government,GEN-00850,26.102518,86.859444
+Government Lakshadweep Central Hospital 1,"Main Road, Lakshadweep Central, Lakshadweep",Lakshadweep,Lakshadweep Central,Block A,383885,District Hospital,Government,GEN-00851,32.546988,92.3127
+Government Lakshadweep Central Hospital 2,"Main Road, Lakshadweep Central, Lakshadweep",Lakshadweep,Lakshadweep Central,Block C,416288,Sub District Hospital,Government,GEN-00852,33.46582,68.269171
+Government Lakshadweep Central Hospital 3,"Main Road, Lakshadweep Central, Lakshadweep",Lakshadweep,Lakshadweep Central,Block C,426822,Community Health Centre,Government,GEN-00853,30.954257,91.414393
+Government Lakshadweep Central Hospital 4,"Main Road, Lakshadweep Central, Lakshadweep",Lakshadweep,Lakshadweep Central,Block C,218540,Primary Health Centre,Government,GEN-00854,35.060945,89.055898
+Government Lakshadweep Central Hospital 5,"Main Road, Lakshadweep Central, Lakshadweep",Lakshadweep,Lakshadweep Central,Block C,713125,Medical College Hospital,Government,GEN-00855,14.950801,96.711581
+Government Lakshadweep North Hospital 1,"Main Road, Lakshadweep North, Lakshadweep",Lakshadweep,Lakshadweep North,Block C,623018,District Hospital,Government,GEN-00856,12.346661,88.375041
+Government Lakshadweep North Hospital 2,"Main Road, Lakshadweep North, Lakshadweep",Lakshadweep,Lakshadweep North,Block C,302446,Sub District Hospital,Government,GEN-00857,16.71745,90.480617
+Government Lakshadweep North Hospital 3,"Main Road, Lakshadweep North, Lakshadweep",Lakshadweep,Lakshadweep North,Block B,368590,Community Health Centre,Government,GEN-00858,20.771265,92.814553
+Government Lakshadweep North Hospital 4,"Main Road, Lakshadweep North, Lakshadweep",Lakshadweep,Lakshadweep North,Block B,452695,Primary Health Centre,Government,GEN-00859,9.815237,90.473894
+Government Lakshadweep North Hospital 5,"Main Road, Lakshadweep North, Lakshadweep",Lakshadweep,Lakshadweep North,Block B,157099,Medical College Hospital,Government,GEN-00860,30.23763,90.819059
+Government Lakshadweep South Hospital 1,"Main Road, Lakshadweep South, Lakshadweep",Lakshadweep,Lakshadweep South,Block C,604886,District Hospital,Government,GEN-00861,12.838051,90.985234
+Government Lakshadweep South Hospital 2,"Main Road, Lakshadweep South, Lakshadweep",Lakshadweep,Lakshadweep South,Block C,251199,Sub District Hospital,Government,GEN-00862,23.120695,85.963268
+Government Lakshadweep South Hospital 3,"Main Road, Lakshadweep South, Lakshadweep",Lakshadweep,Lakshadweep South,Block C,538753,Community Health Centre,Government,GEN-00863,35.037298,80.743077
+Government Lakshadweep South Hospital 4,"Main Road, Lakshadweep South, Lakshadweep",Lakshadweep,Lakshadweep South,Block C,695388,Primary Health Centre,Government,GEN-00864,22.443335,80.48869
+Government Lakshadweep South Hospital 5,"Main Road, Lakshadweep South, Lakshadweep",Lakshadweep,Lakshadweep South,Block C,757483,Medical College Hospital,Government,GEN-00865,33.771316,85.434347
+Government Lakshadweep East Hospital 1,"Main Road, Lakshadweep East, Lakshadweep",Lakshadweep,Lakshadweep East,Block B,297493,District Hospital,Government,GEN-00866,16.828789,79.4014
+Government Lakshadweep East Hospital 2,"Main Road, Lakshadweep East, Lakshadweep",Lakshadweep,Lakshadweep East,Block C,196782,Sub District Hospital,Government,GEN-00867,21.368542,82.82577
+Government Lakshadweep East Hospital 3,"Main Road, Lakshadweep East, Lakshadweep",Lakshadweep,Lakshadweep East,Block A,282077,Community Health Centre,Government,GEN-00868,22.373684,91.393815
+Government Lakshadweep East Hospital 4,"Main Road, Lakshadweep East, Lakshadweep",Lakshadweep,Lakshadweep East,Block C,381639,Primary Health Centre,Government,GEN-00869,15.818824,69.711345
+Government Lakshadweep East Hospital 5,"Main Road, Lakshadweep East, Lakshadweep",Lakshadweep,Lakshadweep East,Block B,745097,Medical College Hospital,Government,GEN-00870,9.296977,76.237841
+Government Lakshadweep West Hospital 1,"Main Road, Lakshadweep West, Lakshadweep",Lakshadweep,Lakshadweep West,Block A,852459,District Hospital,Government,GEN-00871,19.541584,93.816011
+Government Lakshadweep West Hospital 2,"Main Road, Lakshadweep West, Lakshadweep",Lakshadweep,Lakshadweep West,Block B,847876,Sub District Hospital,Government,GEN-00872,29.736458,84.573837
+Government Lakshadweep West Hospital 3,"Main Road, Lakshadweep West, Lakshadweep",Lakshadweep,Lakshadweep West,Block B,755145,Community Health Centre,Government,GEN-00873,24.564581,85.300592
+Government Lakshadweep West Hospital 4,"Main Road, Lakshadweep West, Lakshadweep",Lakshadweep,Lakshadweep West,Block C,193813,Primary Health Centre,Government,GEN-00874,23.453337,88.261813
+Government Lakshadweep West Hospital 5,"Main Road, Lakshadweep West, Lakshadweep",Lakshadweep,Lakshadweep West,Block A,204191,Medical College Hospital,Government,GEN-00875,22.946925,73.19113
+Government Puducherry Central Hospital 1,"Main Road, Puducherry Central, Puducherry",Puducherry,Puducherry Central,Block B,581044,District Hospital,Government,GEN-00876,16.376986,81.847896
+Government Puducherry Central Hospital 2,"Main Road, Puducherry Central, Puducherry",Puducherry,Puducherry Central,Block A,570984,Sub District Hospital,Government,GEN-00877,28.937851,75.951394
+Government Puducherry Central Hospital 3,"Main Road, Puducherry Central, Puducherry",Puducherry,Puducherry Central,Block B,326162,Community Health Centre,Government,GEN-00878,37.291415,91.177459
+Government Puducherry Central Hospital 4,"Main Road, Puducherry Central, Puducherry",Puducherry,Puducherry Central,Block B,834083,Primary Health Centre,Government,GEN-00879,12.169919,79.717309
+Government Puducherry Central Hospital 5,"Main Road, Puducherry Central, Puducherry",Puducherry,Puducherry Central,Block B,404544,Medical College Hospital,Government,GEN-00880,9.926191,73.776159
+Government Puducherry North Hospital 1,"Main Road, Puducherry North, Puducherry",Puducherry,Puducherry North,Block A,148682,District Hospital,Government,GEN-00881,32.045898,90.291344
+Government Puducherry North Hospital 2,"Main Road, Puducherry North, Puducherry",Puducherry,Puducherry North,Block C,467100,Sub District Hospital,Government,GEN-00882,13.232534,80.26023
+Government Puducherry North Hospital 3,"Main Road, Puducherry North, Puducherry",Puducherry,Puducherry North,Block A,262137,Community Health Centre,Government,GEN-00883,16.445244,77.16746
+Government Puducherry North Hospital 4,"Main Road, Puducherry North, Puducherry",Puducherry,Puducherry North,Block A,172464,Primary Health Centre,Government,GEN-00884,11.199137,93.11353
+Government Puducherry North Hospital 5,"Main Road, Puducherry North, Puducherry",Puducherry,Puducherry North,Block A,249356,Medical College Hospital,Government,GEN-00885,16.097447,73.659184
+Government Puducherry South Hospital 1,"Main Road, Puducherry South, Puducherry",Puducherry,Puducherry South,Block B,220967,District Hospital,Government,GEN-00886,27.107306,82.755514
+Government Puducherry South Hospital 2,"Main Road, Puducherry South, Puducherry",Puducherry,Puducherry South,Block C,315673,Sub District Hospital,Government,GEN-00887,22.621043,77.875302
+Government Puducherry South Hospital 3,"Main Road, Puducherry South, Puducherry",Puducherry,Puducherry South,Block B,318238,Community Health Centre,Government,GEN-00888,17.475353,73.317029
+Government Puducherry South Hospital 4,"Main Road, Puducherry South, Puducherry",Puducherry,Puducherry South,Block B,446586,Primary Health Centre,Government,GEN-00889,15.122374,86.981966
+Government Puducherry South Hospital 5,"Main Road, Puducherry South, Puducherry",Puducherry,Puducherry South,Block B,258961,Medical College Hospital,Government,GEN-00890,33.033338,73.699906
+Government Puducherry East Hospital 1,"Main Road, Puducherry East, Puducherry",Puducherry,Puducherry East,Block B,212743,District Hospital,Government,GEN-00891,31.286329,85.140015
+Government Puducherry East Hospital 2,"Main Road, Puducherry East, Puducherry",Puducherry,Puducherry East,Block C,161496,Sub District Hospital,Government,GEN-00892,37.019686,74.684663
+Government Puducherry East Hospital 3,"Main Road, Puducherry East, Puducherry",Puducherry,Puducherry East,Block C,321664,Community Health Centre,Government,GEN-00893,28.689279,72.108629
+Government Puducherry East Hospital 4,"Main Road, Puducherry East, Puducherry",Puducherry,Puducherry East,Block C,672269,Primary Health Centre,Government,GEN-00894,27.377873,76.448339
+Government Puducherry East Hospital 5,"Main Road, Puducherry East, Puducherry",Puducherry,Puducherry East,Block B,299783,Medical College Hospital,Government,GEN-00895,30.179584,96.710082
+Government Puducherry West Hospital 1,"Main Road, Puducherry West, Puducherry",Puducherry,Puducherry West,Block C,729347,District Hospital,Government,GEN-00896,33.632237,93.847126
+Government Puducherry West Hospital 2,"Main Road, Puducherry West, Puducherry",Puducherry,Puducherry West,Block C,113495,Sub District Hospital,Government,GEN-00897,9.686943,96.299705
+Government Puducherry West Hospital 3,"Main Road, Puducherry West, Puducherry",Puducherry,Puducherry West,Block A,525211,Community Health Centre,Government,GEN-00898,22.157017,88.256934
+Government Puducherry West Hospital 4,"Main Road, Puducherry West, Puducherry",Puducherry,Puducherry West,Block A,139128,Primary Health Centre,Government,GEN-00899,14.600181,77.611756
+Government Puducherry West Hospital 5,"Main Road, Puducherry West, Puducherry",Puducherry,Puducherry West,Block A,427013,Medical College Hospital,Government,GEN-00900,17.83719,77.129499
