@@ -440,7 +440,7 @@ html {
 }
 
 section {
-    padding: 2rem 9%;
+    padding: 4rem 9% 2rem;
 
 }
 
@@ -519,7 +519,7 @@ section {
     align-items: center;
     flex-wrap: wrap;
     gap: 1.5rem;
-    padding-top: 10rem;
+    padding-top: 12rem;
 }
 
 .home .image {
