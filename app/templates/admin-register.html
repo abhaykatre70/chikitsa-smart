@@ -13,17 +13,6 @@
 </head>
 
 <body>
-    <header class="header">
-        <a href="{{ url_for('index') }}" class="logo brand"><img src="{{ url_for('static', filename='images/chikitsa-smart-logo.png') }}" alt="Chikitsa Smart logo"><span>Chikitsa Smart</span></a>
-        <nav class="navbar">
-            <a href="{{ url_for('index') }}">Home</a>
-            <a href="{{ url_for('login') }}">Login</a>
-            <a href="{{ url_for('register') }}">Patient Register</a>
-            <a href="{{ url_for('doctor_register') }}">Doctor Register</a>
-            <a href="{{ url_for('admin_register') }}">Admin Register</a>
-        </nav>
-        <div id="menu-btn" class="fas fa-bars"></div>
-    </header>
     <section class="book" id="book">
         <h1 class="heading"> <span>Admin</span> Registration</h1>
         {% with messages = get_flashed_messages(with_categories=true) %}
